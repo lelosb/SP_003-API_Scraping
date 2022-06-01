@@ -1,0 +1,601 @@
+,Type,Address,Bedrooms,Bathrooms,Stores,Price,Agent,Area Code,Phone Number
+0,House,"13 Rue Dansereau|Gatineau (Gatineau), Quebec J8T5J3",3,2,1,"$449,900",Antoine Tétreault,819,921-5265
+1,Row / Townhouse,"249 SWEETVALLEY DRIVE|Ottawa, Ontario K4A5J2",3 + 0,3,2,"$699,900",Carole Wilson,613,668-9356
+2,House,"79 HURON AVENUE N|Ottawa, Ontario K1Y0W1",4 + 0,1,2,"$899,000",Serge Papineau,613,868-6652
+3,House,"27 HOGAN STREET|Ottawa, Ontario K2E5E8",3 + 1,2,,"$697,000",Joe Chan,613,668-8168
+4,House,"1926 MARQUIS AVENUE|Ottawa, Ontario K1J8J2",6 + 0,4,,"$1,350,000",Andre L. Major,613,262-0606
+5,Row / Townhouse,"560 MUTUAL STREET|Ottawa, Ontario K1K1C6",3 + 0,3,2,"$859,000",Bill Peng,613,601-3868
+6,House,"55 Rue de Chazel|Gatineau (Gatineau), Quebec J8T3V1",2,1,1,"$289,900",Joël Simard,819,360-3184
+7,House,"1385 CASERTA PLACE|Ottawa, Ontario K4A3B9",4 + 1,4,2,"$1,199,900",Jean Maceus,613,818-7696
+8,Apartment,"1303 CLEMENT STREET UNIT#311|Hawkesbury, Ontario K6A3P1",2 + 0,2,,"$397,900",Francois Piche,613,677-2100
+9,House,"871 PILON STREET|Hawkesbury, Ontario K6A3P8",3 + 0,2,2,"$339,000",Francois Piche,613,677-2100
+10,Row / Townhouse,"251 THISTLEDOWN COURT|Ottawa, Ontario K2J1M9",3 + 0,2,2,"$389,000",Jatinder Saini,613,294-1988
+11,House,"146 COWLEY AVENUE|Ottawa, Ontario K1Y0G6",3 + 0,2,1,"$1,250,000",Aron Chaney,613,668-6568
+12,House,"980 QUEEN STREET|L'Orignal, Ontario K0B1K0",3 + 0,2,2,"$349,000",Francois Piche,613,677-2100
+13,,"146 COWLEY AVENUE|Ottawa, Ontario K1Y0G6",,0,,"$1,250,000",Aron Chaney,613,668-6568
+14,Apartment,"300 TULUM CRESCENT UNIT#K|Ottawa, Ontario K2S0J7",2 + 0,2,1,"$499,900",Michael Romain,613,277-1598
+15,House,"3654 COUNTY 29 N ROAD|Pakenham, Ontario K0A2X0",3 + 0,2,,"$499,000",Jeffrey Lyons,613,897-5593
+16,House,"182 MEANDERING BROOK DRIVE|Ottawa, Ontario K1T0C3",3 + 1,4,2,"$749,900",Ryan Rogers,613,282-2077
+17,House,"1105 KIRKMAN COURT|Cornwall, Ontario K6H7M7",3 + 2,2,1,"$689,000",Matthew Cameron,613,362-6051
+18,House,"51 BEECH STREET|Ingleside, Ontario K0C1M0",3 + 0,2,1,"$619,900",Irene Margaret Cameron,613,551-1589
+19,House,"1704 RIVER ROAD|Ottawa, Ontario K4M1B4",4 + 2,4,2,"$1,999,000",Marnie Bennett,613,233-8606
+20,House,"146 STONEWATER BAY CRESCENT|Carleton Place, Ontario K7C0B1",2 + 0,2,1,"$795,000",Michael McCue,613,253-5741
+21,Row / Townhouse,"1618 HOSKINS CRESCENT|Orleans, Ontario K4A2H6",3 + 0,3,2,"$560,000",Nancy Ceresia,613,286-1658
+22,House,"50 PINETRAIL CRESCENT|Ottawa, Ontario K2G5A5",3 + 0,3,2,"$749,000",Xiaoli (Lily) Hu,613,220-0046
+23,Row / Townhouse,"1457 MURDOCK GATE|Gloucester, Ontario K1J8R4",3 + 0,2,2,"$439,000",Hamid Riahi,613,860-7355
+24,House,"1205 DORCHESTER AVENUE|Ottawa, Ontario K1Z8E3",3 + 0,2,2,"$525,000",Jeremie Hughes,613,327-2291
+25,House,"930 LAFLECHE ROAD|Hawkesbury, Ontario K6A1N5",2 + 1,2,1,"$379,900",Simon Bedard,613,676-3058
+26,House,"20535 LOCHIEL ROAD|Alexandria, Ontario K0C1A0",3 + 0,1,,"$599,000",D.A. MacMillan,613,360-1078
+27,House,"197 Rue de la Forteresse|Gatineau (Masson-Angers), Quebec J8M1Z4",3,2,1,"$589,900",Christine Thibeault,819,664-8131
+28,House,"124-128 Rue Prud'Homme|Val-des-Monts, Quebec J8N7C3",4,2,1.5,"$489,900",Annick Fleury,819,592-5152
+29,House,"77 Rue Brady|Gatineau (Hull), Quebec J8Y5L6",4,2,1,"$650,000",Yves Cadieux,819,775-0302
+30,House,"3799 LEGAULT ROAD|Clarence-Rockland, Ontario K0A2A0",3 + 0,1,,"$499,900",Darcy Whyte,613,697-8722
+31,House,"210 GEORGINA STREET|Perth, Ontario K7H3C9",3 + 0,3,1,"$849,900",Jennifer Chamberlain,613,818-5662
+32,Row / Townhouse,"33 NETTLE CRESCENT|Ottawa, Ontario K1T0M2",3 + 0,3,2,"$550,000",Marco Distefano,855,408-9468
+33,House,"1226 OLD CARP ROAD|Kanata, Ontario K2K1X7",5 + 1,3,2,"$949,900",Marnie Bennett,613,233-8606
+34,Row / Townhouse,"55 EMERALD POND PRIVATE|Ottawa, Ontario K1T0C3",3 + 0,3,2,"$699,000",Karyne Ibrahim,855,999-9740
+35,House,"184 Rue de la Forteresse|Gatineau (Masson-Angers), Quebec J8M1X8",3,2,1,"$429,000",Sébastien Beaulac,514,799-4500
+36,Row / Townhouse,"525 DE MAZENOD AVENUE|Ottawa, Ontario K1S5T8",3 + 0,3,2,"$899,000",Phil Labbe,613,316-3707
+37,Manufactured Home,"14154 ANDERSON ROAD|Morrisburg, Ontario K0C1X0",2 + 0,1,,"$119,900",Tony Wallis,613,361-1428
+38,House,"4957 AULTSVILLE ROAD|Ingleside, Ontario K0C1M0",3 + 0,1,,"$449,900",Maggie Tessier,613,443-4300
+39,Row / Townhouse,"214 DOLCE CRESCENT|Ottawa, Ontario K1X0B2",3 + 0,3,2,"$834,900",Shauna Moran,613,868-9898
+40,House,"76 HURD STREET|Kemptville, Ontario K0G1J0",4 + 1,2,2,"$599,900",Lisa Deschambault,613,282-8934
+41,House,"273 ROUTE 500 ROAD|Russell, Ontario K4R1E5",3 + 0,3,1,"$949,989",Nicholas Carson,613,852-7161
+42,House,"55 AVENUE ROAD|Ottawa, Ontario K1S0N7",3 + 1,3,2,"$1,499,000",Nina Krakowsky,613,697-0034
+43,House,"324 STONEWAY DRIVE|Ottawa, Ontario K2G6G8",4 + 0,3,2,"$948,880",Christopher Blenkiron,613,913-4665
+44,Manufactured Home,"19 MELISSA LANE|Horton, Ontario K7V3Z4",2 + 0,1,,"$99,900",Peter Vincent,613,432-0319
+45,,"Rue de Jurançon|Gatineau (Masson-Angers), Quebec J8M2A8",,,,"$99,900",Joanna Jasinska,819,351-5151
+46,Duplex,"100 Rue Brabant|Gatineau (Masson-Angers), Quebec J8M1K5",2,1,,"$624,900",Jacques Durocher,819,281-0330
+47,Duplex,"Rue Bélanger|Ripon, Quebec J0V1V0",2,1,,"$498,000 +  GST +  QST",Daniel Caya,819,712-2732
+48,House,"204 Rue Essiambre|Gatineau (Gatineau), Quebec J8R1S9",4,2,2,"$549,900",Dominic LeSieur,819,930-1191
+49,Row / Townhouse,"42 WINNEGREEN COURT|Ottawa, Ontario K1G5S2",3 + 0,3,2,"$579,000",Jessica Anbara,613,790-0227
+50,Row / Townhouse,"170 TALLTREE CRESCENT|Stittsville, Ontario K2S0B1",3 + 0,3,2,"$679,900",Moe Vacheresse,613,852-8242
+51,House,"958 HARKNESS AVENUE|Ottawa, Ontario K1V6P3",3 + 0,1,,"$689,000",Kevin Feely,613,325-9107
+52,House,"5 LEONARD AVENUE|Ottawa, Ontario K1S4T6",3 + 0,3,2,"$1,225,000",Nina Krakowsky,613,697-0034
+53,House,"4 PARKMOUNT CRESCENT|Ottawa, Ontario K2H5T4",4 + 0,2,,"$600,000",Marco Distefano,855,408-9468
+54,Row / Townhouse,"128 FAIRWEATHER STREET|Ottawa, Ontario K1T0L1",3 + 0,3,2,"$724,900",Maureen Yates,613,277-1963
+55,,"1953 FERGUSON FALLS ROAD|Lanark, Ontario K0G1K0",,0,,"$259,900",T.J. GORDON,613,200-1257
+56,Row / Townhouse,"124 LOCHNAW PRIVATE|Ottawa, Ontario K2J0W4",3 + 0,4,2,"$649,888",Marnie Bennett,613,233-8606
+57,House,"83 SETTLEMENT LANE|Russell, Ontario K4R0A4",3 + 0,3,2,"$799,900",Maggie Tessier,613,443-4300
+58,House,"7417 ROAD 506|Plevna, Ontario K0H2M0",3 + 0,2,1.5,"$869,000",GORD HAFEKOST,519,574-8355
+59,House,"1772 BLACKCREEK ROAD|Ottawa, Ontario K0A1V0",3 + 1,2,1,"$985,000",Cheryl Jones,613,265-7566
+60,House,"7 KIRKPATRICK COURT|Kanata, Ontario K2L4A6",3 + 0,3,2,"$649,900",Moe Vacheresse,613,852-8242
+61,House,"512 DECOEUR DRIVE UNIT#D|Ottawa, Ontario K4A5H5",0 + 2,2,2,"$468,888",Brenda Maheu,613,875-9551
+62,House,"48 BECKWITH ROAD|Ottawa, Ontario K1S0K7",4 + 0,3,2,"$1,450,000",Derek Hooper,613,604-0531
+63,House,"2138 VALLEY DRIVE|Ottawa, Ontario K1G2P7",3 + 0,2,1,"$499,990",Leon (Itai) Olej,613,601-5925
+64,House,"62 JOHN STREET|Carleton Place, Ontario K7C1N3",5 + 0,3,,"$459,900",John E. Coburn,613,913-0997
+65,House,"3441 SOUTHGATE ROAD|Ottawa, Ontario K1V7Y5",4 + 0,3,2,"$699,000",Robert Kearns,613,238-2801
+66,,"*** CONCESSION 12 INDIAN LANDS ROAD|Apple Hill, Ontario K0C1B0",,0,,"$109,900",Liette Ricard,613,330-4533
+67,Row / Townhouse,"2 RAVENSCROFT COURT|Stittsville, Ontario K2S1R3",2 + 0,2,2,"$599,900",Susan Vacheresse,613,608-4663
+68,Row / Townhouse,"2570 SOUTHVALE CRESCENT UNIT#32|Ottawa, Ontario K1B5B7",3 + 0,2,2,"$349,900",Anh Kim Tran,613,236-5959
+69,House,"1960 OTHELLO AVENUE|Ottawa, Ontario K1G2A4",2 + 0,2,1,"$599,900",Stephanie Bileski,613,407-4889
+70,House,"22 Rue Côté|Gatineau (Aylmer), Quebec J9H2B1",5,3,1,"$365,000",Philip LeMay,819,923-7777
+71,House,"40-41 Ch. Desaulniers|Val-des-Monts, Quebec J8N7A2",5,2,1,"$899,000",Joanne Fleury,819,671-5152
+72,House,"413 Rue St-Jean|Gatineau (Gatineau), Quebec J8P5Y3",4,2,1,"$449,900",Alex Gagnon,819,665-5097
+73,House,"1576 LISBON STREET|Ottawa, Ontario K4A4C3",3 + 0,2,2,"$649,000",DiAnne Masson-Yensen,613,686-5050
+74,Apartment,"22 PERKINS STREET UNIT#403|Ottawa, Ontario K1R7G5",2 + 0,2,1,"$539,000",Sophie Schram,613,825-7653
+75,House,"44 Ch. Mill|Chelsea, Quebec J9B1K8",3,2,1,"$499,000",Caroline Bertrand,819,968-1881
+76,House,"318 Rue Mondoux|Gatineau (Gatineau), Quebec J8P5X4",2,1,1,"$429,000",Guillaume Arsenault,819,210-3792
+77,Duplex,"97 Rue Achille-Vanhee|Gatineau (Gatineau), Quebec J8R0J3",3,1,,"$599,000",Alexandr Pierre Lemoine,819,635-6648
+78,House,"118 SHACKLEFORD WAY|Ottawa, Ontario K2S0W4",4 + 0,4,2,"$949,900",Inder Malhi,613,404-3610
+79,House,"1011 PINECREST ROAD|Ottawa, Ontario K2B2B6",4 + 4,4,1,"$799,900",Nathalie Bruce,613,608-2746
+80,House,"1212 MORRISON DRIVE|Ottawa, Ontario K2H7L3",4 + 0,2,,"$749,900",Marnie Bennett,613,233-8606
+81,Apartment,"429 KENT STREET UNIT#104|Ottawa, Ontario K2P1B5",0 + 0,1,1,"$279,000",Brent McElheran,613,851-1377
+82,Apartment,"200 LETT STREET UNIT#512A|Ottawa, Ontario K1R0A8",1 + 0,1,1,"$395,000",Gordon Owens,613,596-4133
+83,Apartment,"150 GREENFIELD AVENUE UNIT#501|Ottawa, Ontario K1S0X8",2 + 0,2,5,"$549,900",Diane Allingham,613,422-8688
+84,,"111 OLD MINE ROAD|Cobden, Ontario K0J1T0",,0,,"$99,900",David Griffiths,613,559-1307
+85,Row / Townhouse,"281 FORESTBROOK ST|Ottawa, Ontario K2K0B5",3,3,2,"$649,900",BRADLEY TAYLOR,647,225-2723
+86,Apartment,"203 CATHERINE STREET UNIT#1202|Ottawa, Ontario K2P1C3",1 + 0,1,1,"$299,000",Helen Tang,613,762-4345
+87,House,"40 DUNVEGAN STREET|Ottawa, Ontario K1K3G3",5 + 1,4,2,"$1,765,000",Daniel Beauchamp,613,720-7775
+88,House,"1531 CHOMLEY CRESCENT|Ottawa, Ontario K1G0V9",3 + 2,2,1,"$849,900",Sarah Hunter,613,889-0171
+89,House,"256 MEADOWBREEZE DRIVE|Kanata, Ontario K2M3A5",0 + 2,3,2,"$399,900",Timothy McLean,613,863-2121
+90,House,"1639 COUNTRY WALK DRIVE|Orleans, Ontario K1C8E2",4 + 0,5,2,"$1,499,900",Jacqueline Stacey,613,223-9083
+91,House,"110 TALOS CIRCLE|Richmond, Ontario K0A2Z0",4 + 1,4,2,"$1,314,900",Ben Wightman,613,838-4858
+92,Row / Townhouse,"132 UMBRA PLACE|Ottawa, Ontario K2J6N7",3 + 0,3,2,"$779,000",Dimitrios Kalogeropoulos,613,883-8823
+93,House,"272 ESPIN HEIGHTS|Ottawa, Ontario K2J0Y8",2 + 0,2,2,"$399,900",Curtis Sernoskie,613,277-6075
+94,Row / Townhouse,"104 BARTLETT PRIVATE|Ottawa, Ontario K1V2A8",2 + 2,3,1,"$675,000",Gerard Windle,613,795-2595
+95,House,"326 DES SOLDATS RIENDEAU STREET|Ottawa, Ontario K2J6H4",4 + 0,4,2,"$1,099,900",Tingting Liu,613,794-6886
+96,Apartment,"530 DE MAZENOD AVENUE UNIT#501|Ottawa, Ontario K1S5W8",0 + 0,1,1,"$349,900",Nim Moussa,613,298-6461
+97,House,"4630A RIVER ROAD|Renfrew, Ontario K7V3Z8",3 + 0,4,,"$1,499,000",Marnie Bennett,613,233-8606
+98,Apartment,"80 SANDCASTLE DRIVE UNIT#313|Ottawa, Ontario K2H9E7",2 + 0,2,1,"$349,900",Gordon Owens,613,596-4133
+99,,"WHITE CEMETERY ROAD|Lanark Highlands, Ontario K0G1K0",,0,,"$274,500",JENNIFER AUNGER-RITCHIE,613,285-5602
+100,,"MERKLEY ROAD|Portland, Ontario K0G1V0",,0,,"$129,500",JENNIFER AUNGER-RITCHIE,613,285-5602
+101,House,"14 Rue de Düsseldorf|Brownsburg-Chatham, Quebec J8G2T4",3,2,1,"$475,000",Véronique Banville,514,237-8376
+102,Duplex,"5 Rue Roger-Poitras|Gatineau (Hull), Quebec J8Y1G8",3,1,1,"$369,900",Martin Chiasson,819,661-3500
+103,House,"104 Rue La Québécoise|Gatineau (Masson-Angers), Quebec J8M1J5",4,3,2,"$749,000",Claire Gauthier,613,292-8267
+104,House,"99 Rue de Matapédia|Gatineau (Gatineau), Quebec J8T6M5",3,1,2,"$299,900",Annick Fleury,819,592-5152
+105,Apartment,"1180 Ch. d'Aylmer|#110|Gatineau (Aylmer), Quebec J9H0G5",1,1,8,"$299,000",Philip LeMay,819,923-7777
+106,House,"488 Rue Antoine|Gatineau (Gatineau), Quebec J8P6G1",4,2,1,"$339,900",Anik Maisonneuve,819,360-1028
+107,Apartment,"200 LETT STREET UNIT#1001|Ottawa, Ontario K1R0A7",2 + 0,2,1,"$799,999",Anthony Donnelly,613,866-1555
+108,Row / Townhouse,"20 GRENADIER WAY|Ottawa, Ontario K2J4L3",3 + 1,4,2,"$699,000",Diana Sneddon,613,697-8946
+109,Row / Townhouse,"152 POPPLEWELL CRESCENT|Ottawa, Ontario K2J5P7",3 + 0,3,2,"$649,900",Christopher Scott,613,863-6999
+110,Apartment,"349 MCLEOD STREET UNIT#530|Ottawa, Ontario K2P0S1",1 + 0,1,1,"$389,900",Trudy Van Dyke,613,761-3398
+111,Row / Townhouse,"1643 MEADOWBROOK ROAD|Ottawa, Ontario K1B4W6",4 + 0,2,2,"$439,900",Mehran Afzali,613,870-1218
+112,House,"314-316 WESTHILL AVENUE|Ottawa, Ontario K1Z7H6",8 + 2,6,2,"$2,950,000",Justin Salazar,613,724-0895
+113,House,"409 SUNNYSIDE AVENUE|Ottawa, Ontario K1S0S5",3 + 0,2,3,"$1,050,000",Robert Marland,613,769-9157
+114,House,"2070 8TH LINE ROAD|Metcalfe, Ontario K0A2P0",3 + 2,4,1,"$1,200,000",Stephany Watson,613,324-3717
+115,House,"315 SMYTH ROAD|Ottawa, Ontario K1H2J1",4 + 0,4,2,"$1,100,000",Lindsay Spires,613,601-5444
+116,,"1755 CONCESSION 1 ROAD|Lefaivre, Ontario K0B1J0",,0,,"$272,500",Richard Renaud,613,880-8970
+117,Row / Townhouse,"566 CANNES CRESCENT|Ottawa, Ontario K4A5J6",3 + 0,4,2,"$749,900",Karyne Ibrahim,855,999-9740
+118,Row / Townhouse,"439  RIVERBOAT HTS|Ottawa, Ontario K2J6K1",3,3,2,"$599,000",OWEN ZHENG,905,909-0101
+119,House,"18996 KENYON CONC 3 ROAD|Apple Hill, Ontario K0C1B0",3 + 1,2,1,"$450,000",Dean Macdonell,613,360-4645
+120,,"19023 KENYON CONCESSION 5 ROAD|Alexandria, Ontario K0C1A0",,0,,"$175,000",Richard Decoste,613,872-3335
+121,House,"11 CARLISLE CIRCLE|Ashton, Ontario K0A1B0",5 + 0,4,1,"$1,700,000",Brittany Brown,613,282-7653
+122,Row / Townhouse,"6146 ARBOURWOOD DRIVE|Ottawa, Ontario K1C7K8",3 + 0,2,2,"$550,000",Kathy Walker,613,290-2305
+123,House,"57 SUNDRAGON WAY|Ottawa, Ontario K2J5Z4",4 + 0,3,2,"$850,000",Greg Hamre,613,277-7712
+124,Row / Townhouse,"66 STOKES CRESCENT|Ottawa, Ontario K2L2Z4",3 + 0,3,2,"$480,000",Ramvir Ahlawat,613,301-7501
+125,House,"2694 OLD MONTREAL ROAD|Ottawa, Ontario K4C1C7",4 + 1,3,2,"$999,900",Laura Voicu,613,218-6298
+126,House,"716 CHAPMAN BOULEVARD|Ottawa, Ontario K1G1T6",3 + 1,2,1,"$899,900",Ryan Cole,613,295-2986
+127,Apartment,"1035 BANK STREET UNIT#1704|Ottawa, Ontario K1S5K3",2 + 0,3,20,"$2,550,000",Joanne Goneau,613,851-5982
+128,House,"164 BURNETTS GROVE CIRCLE|Ottawa, Ontario K2J1S9",3 + 0,3,2,"$599,000",Daria Kark,613,513-5597
+129,House,"71 CHRISTIE STREET|Carleton Place, Ontario K7C0P4",3 + 0,3,2,"$839,900",Joanne Gauthier,613,983-1186
+130,House,"43 WATERBRIDGE DRIVE UNIT#B|Ottawa, Ontario K2G6R5",2 + 0,2,3,"$539,000",Philip MacMillan,613,698-7888
+131,Row / Townhouse,"5A MAPLE RIDGE CRESCENT|Ottawa, Ontario K2J3K9",3 + 0,3,3,"$529,900",John Donovan,613,292-2176
+132,House,"213 GLENN DRIVE|Perth, Ontario K7H3C7",3 + 1,2,1,"$649,900",MICHELLE FOURNIER,613,812-8585
+133,House,"97 WILLIAM STREET E|Smiths Falls, Ontario K7A1E3",3 + 0,2,2,"$489,000",Johnny Vandusen,613,802-2766
+134,House,"18 Ch. des Érables|L'Ange-Gardien, Quebec J8L0E7",4,2,2,"$529,900",Matthieu Jodoin,819,923-4499
+135,Row / Townhouse,"301 SQUADRON CRESCENT|Ottawa, Ontario K1K0S6",3 + 0,2,3,"$739,900",Irina Popova,613,883-2513
+136,House,"69 BERT HALL STREET|Arnprior, Ontario K2S0G6",4 + 0,4,2,"$779,900",Kate Dawes,613,882-5125
+137,Row / Townhouse,"2496 REGATTA AVENUE|Ottawa, Ontario K2J5V6",3 + 0,3,2,"$695,000",Geoff Walker,613,422-2055
+138,House,"287 Ch. de la Montagne|Val-des-Monts, Quebec J8N1B5",4,1,1,"$399,900",Annick Fleury,819,592-5152
+139,House,"7058 SHADOW RIDGE DRIVE|Ottawa, Ontario K4P1B8",4 + 0,4,2,"$799,900",Miguel Vidal,613,324-3818
+140,House,"119 Rue Henri-Bourassa|Papineauville, Quebec J0V1R0",3,1,1,"$174,900",Manon Lafrance,819,923-5274
+141,Apartment,"429 SOMERSET STREET UNIT#205|Ottawa, Ontario K2P2P5",0 + 0,1,1,"$287,500",Eric Manherz,613,601-6404
+142,Row / Townhouse,"239 MONTEREY DRIVE|Ottawa, Ontario K2H7B1",3 + 0,3,2,"$499,000",Joni Campbell,613,371-9972
+143,House,"229 LABELLE STREET|Embrun, Ontario K0A1W1",3 + 0,2,1,"$574,900",Sarah Percival,613,883-7076
+144,House,"3422 CEDAR GROVE ROAD|Johnstown, Ontario K0E1T1",3 + 2,3,1,"$1,200,000",Nathan Dautovich,877,709-0027
+145,House,"2033 ROLLING BROOK DRIVE|Ottawa, Ontario K1W1C9",4 + 0,4,2,"$899,900",Randy Vandommelen,613,220-9196
+146,Row / Townhouse,"60 NATHALIE STREET|Rockland, Ontario K4K0J3",3 + 0,2,2,"$499,000",Maha Shahbazian,613,862-6242
+147,House,"2 LIVEOAK CRESCENT|Ottawa, Ontario K2J1R6",3 + 1,3,1,"$850,000",Beverly Rouleau,613,692-3567
+148,House,"534 ANGLICAN CHURCH ROAD|Perth, Ontario K7H3C6",3 + 0,1,1,"$489,900",Betty O'Rourke,613,668-6450
+149,House,"455 DESJARDINS STREET|Hawkesbury, Ontario K6A3N7",3 + 0,3,2,"$329,000",Steven Levac,613,677-8284
+150,House,"54 BURNVIEW CRESCENT|Ottawa, Ontario K1B3J3",4 + 0,3,2,"$839,900",Paul Rushforth,613,240-8551
+151,,"00 NORWAY LAKE ROAD|Burnstown, Ontario K0J1G0",,0,,"$145,000",Cheri Borutski,613,295-4726
+152,Row / Townhouse,"8 BARNSLEY PRIVATE|Ottawa, Ontario K1Y1K9",3 + 0,2,3,"$599,900",Michael Finnerty,613,302-4084
+153,House,"590 CHAPMAN MILLS DRIVE UNIT#A|Ottawa, Ontario K2J3V2",0 + 2,3,2,"$499,900",Anthony Ianni,613,850-9553
+154,Row / Townhouse,"1710 JOBIN CRESCENT|Ottawa, Ontario K1J1C5",3 + 0,4,2,"$899,900",Walid Sidiqi,613,799-9279
+155,Row / Townhouse,"1554 HAYDON CIRCLE|Ottawa, Ontario K2J0K5",2 + 0,2,3,"$545,000",Carolyn Bradley,613,558-7160
+156,House,"64 CONOVER STREET|Ottawa, Ontario K2G3Z5",3 + 0,3,2,"$699,900",Helen Tang,613,762-4345
+157,House,"666-668B GARDENVALE ROAD|Ottawa, Ontario K1K1E1",8 + 5,4,,"$1,150,000",Mario Lemieux,613,889-9259
+158,,"666-668B GARDENVALE ROAD|Ottawa, Ontario K1K1E1",,0,,"$1,150,000",Mario Lemieux,613,889-9259
+159,Row / Townhouse,"3B FOXHILL WAY|Ottawa, Ontario K2J1P3",3 + 0,2,2,"$398,900",Joshua Reyes,613,790-7679
+160,Row / Townhouse,"92 LATIGO RIDGE|Richmond, Ontario K0A2Z0",3 + 0,3,2,"$679,900",Stephany Watson,613,324-3717
+161,,"lot LAND O'NOD ROAD|Merrickville, Ontario K0G1R0",,0,,"$130,000",Ken Dekker,613,860-4663
+162,House,"11016 GILMOUR ROAD|Brinston, Ontario K0E1C0",3 + 0,2,,"$199,900",Kim Heuff,613,298-5806
+163,House,"59 NADOBNY LANE|Horton, Ontario K7V3Z9",1 + 0,1,,"$249,900",Peter Vincent,613,432-0319
+164,House,"56 Ch. Laflamme|Val-des-Monts, Quebec J8N5G2",3,3,1.5,"$995,000",Stephen M. Lynott,613,859-5585
+165,Apartment,"115 Rue de Bruxelles|#205|Gatineau (Aylmer), Quebec J9J0W8",2,1,,"$349,900",Antoine Tétreault,819,921-5265
+166,House,"210 Rue Principale|Plaisance, Quebec J0V1S0",3,1,1,"$209,900",Alexandre Longpré,819,664-5898
+167,House,"109 BARCLAY STREET|Carleton Place, Ontario K7C4N3",2 + 2,2,1,"$550,000",David Keehner,613,791-0296
+168,House,"968 HARPER ROAD|Perth, Ontario K7H3C9",2 + 0,1,1,"$329,900",Landon Hicks,613,867-1927
+169,House,"288 Rue St-Jean-Baptiste|Gatineau (Masson-Angers), Quebec J8M0B2",3,1,2,"$699,900",Yannick Arseneault,819,360-6967
+170,House,"73 Rue de Richmond|Gatineau (Gatineau), Quebec J8R2J3",3,1,2,"$374,900",Neb Zorkic,819,923-0065
+171,,"1570-1580 GOTH AVENUE|Ottawa, Ontario K1T1E4",,0,,"$3,100,000",Ian Hassell,613,794-8555
+172,House,"11 GARRISON DRIVE|Kemptville, Ontario K0G1J0",7 + 0,7,2,"$1,898,000",Bill Peng,613,601-3868
+173,House,"970 Rue Charette|Gatineau (Buckingham), Quebec J8L2Z1",3,1,2,"$399,900",Dominique Théorêt,819,210-6966
+174,Row / Townhouse,"537 PIN ROUGE WAY|Ottawa, Ontario K1W0B2",3 + 0,3,2,"$619,900",Rae-Yao Liu,613,805-8665
+175,Row / Townhouse,"990 BUNCHBERRY WAY|Ottawa, Ontario K1T3T8",3 + 0,3,2,"$749,000",Hisham Abdalla,613,715-3020
+176,House,"51 BRISTON PRIVATE|Ottawa, Ontario K1G5P6",2 + 0,2,2,"$429,900",Sebastien Malherbe,613,899-7563
+177,House,"36 UPNEY DRIVE|Nepean, Ontario K2J5G7",3 + 0,2,2,"$649,900",Jagdeep Perhar,613,720-4518
+178,House,"87 Ch. Hogan|Cantley, Quebec J8V3C2",3,2,1,"$549,000",Claudine Ranger,819,962-7097
+179,Apartment,"255 BAY STREET UNIT#1602|Ottawa, Ontario K1R0C5",2 + 0,2,18,"$595,000",Gerald Sinotte,613,762-2134
+180,Apartment,"101 QUEEN STREET UNIT#804|Ottawa, Ontario K1P0B7",2 + 0,2,1,"$933,500",Denise Muller,613,899-2848
+181,Apartment,"242 RIDEAU STREET UNIT#505|Ottawa, Ontario K1N0B7",1 + 0,1,1,"$399,000",Gerald Sinotte,613,762-2134
+182,Apartment,"238 BESSERER STREET|Ottawa, Ontario K1N6B1",1 + 0,1,1,"$379,900",Gil Marques,613,851-3078
+183,Row / Townhouse,"562 ROWER WAY|Ottawa, Ontario K1X0C6",4 + 0,3,2,"$799,900",Hisham Abdalla,613,715-3020
+184,House,"3337 OLD ALMONTE ROAD|Ottawa, Ontario K0A1L0",2 + 0,1,1,"$759,900",Moe Abdulkader,613,294-2255
+185,Row / Townhouse,"99 LONGWORTH AVENUE|Ottawa, Ontario K1T3W7",3 + 0,4,2,"$829,900",Hisham Abdalla,613,715-3020
+186,Row / Townhouse,"219 CAYMAN ROAD|Ottawa, Ontario K2S0N9",3 + 0,3,2,"$729,000",Jason Spartalis,613,266-2460
+187,House,"129 WHARHOL PRIVATE|Ottawa, Ontario K2H1G7",2 + 0,2,2,"$469,900",Casey McGowan,613,878-5831
+188,Manufactured Home,"117 OGILVIE LANE|Jasper, Ontario K0G1G0",2 + 0,1,,"$174,900",Wendy Hillier,613,285-4476
+189,House,"620 CLEARBROOK DRIVE|Ottawa, Ontario K2J5S2",3 + 0,3,2,"$769,900",Saadiq Hussain,613,860-7355
+190,Row / Townhouse,"118 BARROW CRESCENT|Ottawa, Ontario K2L2K1",3 + 0,3,2,"$350,000",Marco Distefano,855,408-9468
+191,Apartment,"383 CUMBERLAND STREET UNIT#312|Ottawa, Ontario K1N1J7",1 + 0,1,1,"$459,900",Rahim Rasooli,613,853-3587
+192,Apartment,"101 QUEEN STREET UNIT#710|Ottawa, Ontario K1P5C7",2 + 0,2,1,"$739,000",Hamid Riahi,613,860-7355
+193,Apartment,"111 CHAMPAGNE AVENUE S UNIT#1102|Ottawa, Ontario K1S5V3",1 + 0,1,1,"$340,000",Jordan Stitt,613,884-6818
+194,House,"1414 LEXINGTON STREET|Ottawa, Ontario K2C1R9",3 + 0,2,1,"$789,998",Marnie Bennett,613,233-8606
+195,House,"477 PRINCESS LOUISE DRIVE|Orleans, Ontario K4A1Y2",3 + 0,4,2,"$624,900",Ken Brothers,613,858-2428
+196,House,"3026 MCGOVERN EAST ROAD|Kemptville, Ontario K0G1J0",5 + 0,2,2,"$1,150,000",GERRY HUDSON,613,449-1668
+197,Apartment,"51 Rue du Britannia|Gatineau (Aylmer), Quebec J9J1N4",3,1,,"$469,900",Mathieu Arseneault,819,664-0629
+198,House,"106 Rue Caron|Gatineau (Hull), Quebec J8Y1Z2",3,1,1,"$369,900",Pierre Gagnon,819,281-4131
+199,House,"1221 Ch. Jetté|L'Ange-Gardien, Quebec J8L0G7",5,3,2,"$895,000",Vyncent Ledoux,819,593-1768
+200,House,"27 Rue de Cavaillon|Gatineau (Gatineau), Quebec J8V3V1",4,2,1,"$779,000",Martin Simard,819,246-1000
+201,Apartment,"22 Rue Normand|#7|Gatineau (Hull), Quebec J8Y4C4",3,1,3,"$289,900",Salim Marion,819,665-4169
+202,,"40Z Ch. Teske|Mulgrave-et-Derry, Quebec J8L2W8",4,2,,"$849,900",Jessika Simpson,819,230-0865
+203,House,"119 Rue de Dunière|Gatineau (Gatineau), Quebec J8V0A2",3,1,2,"$674,900",Stéphane Ruais,819,923-0150
+204,House,"361 WOOD ACRES GROVE UNIT#L|Ottawa, Ontario K1T0M7",2 + 0,1,3,"$409,900",Toby Pike,613,730-5064
+205,House,"6381 RADISSON WAY|Ottawa, Ontario K1C2Z9",1 + 3,3,1,"$3,900,000",Samantha Fortin,613,612-2842
+206,,"CALABOGIE ROAD|Burnstown, Ontario K0J1G0",,0,,"$249,900",John Roberts,613,832-0902
+207,Apartment,"1505 BASELINE ROAD UNIT#104|Ottawa, Ontario K2C3L4",2 + 0,1,12,"$349,000",Adam Major,800,831-3726
+208,House,"122 SIROCCO CRESCENT|Ottawa, Ontario K2S2E1",4 + 1,4,2,"$985,000",Meaghan Kleinsteuber,613,266-7366
+209,House,"142 HUNTERSFIELD DRIVE|Ottawa, Ontario K1T3L9",3 + 0,4,2,"$679,900",Anh Kim Tran,613,236-5959
+210,House,"35 FRIEDAY STREET|Arnprior, Ontario K7S0A6",3 + 0,3,2,"$399,900",Jen MacDonald,613,804-7653
+211,House,"59 ELM STREET|Ingleside, Ontario K0C1M0",1 + 0,1,,"$219,900",Paul McAlear,613,551-6663
+212,House,"926 RUBICON PLACE|Ottawa, Ontario K2S1B6",4 + 0,3,2,"$1,049,900",Dan Orr,613,277-5058
+213,Apartment,"255 ARGYLE AVENUE UNIT#P02|Ottawa, Ontario K2P2N7",2 + 0,2,2,"$875,000",Derek Hooper,613,604-0531
+214,House,"1221 BONNIE CRESCENT|Ottawa, Ontario K2C1Z8",4 + 0,2,,"$899,900",Serge Guenette,613,299-2311
+215,Apartment,"105 BLUESTONE PRIVATE UNIT#2|Ottawa, Ontario K4A0X7",0 + 2,2,4,"$359,900",Francois Tessier,613,894-1801
+216,House,"2214 MELFORT STREET|Ottawa, Ontario K1G1H8",3 + 1,3,1,"$745,900",Richard Pearce,613,864-1669
+217,House,"31 LOCHIEL STREET|Renfrew, Ontario K7V1W1",3 + 0,1,,"$359,000",Ross Peever,613,433-1133
+218,Apartment,"51 Rue du Coteau|#3|Gatineau (Gatineau), Quebec J8R2V6",2,1,3,"$269,900",Véronique LeSieur,819,664-3308
+219,Apartment,"924 Boul. du Plateau|#2|Gatineau (Aylmer), Quebec J9J0C1",1,1,3,"$159,900",Salim Marion,819,665-4169
+220,House,"646 Rue Jean-Delisle|Gatineau (Aylmer), Quebec J9H6N3",4,2,2,"$459,000",Isabelle Patry,613,880-1323
+221,Apartment,"48 Rue de Grondines|#C|Gatineau (Gatineau), Quebec J8V1Z6",2,1,3,"$324,900",François Pareanen,819,209-2006
+222,House,"103 WILLIAM STREET|Smiths Falls, Ontario K7A1E3",3 + 0,2,2,"$349,900",Lisa Anne Brennan-Trudel,613,285-9646
+223,House,"494 FRED STREET|Winchester, Ontario K0C2K0",3 + 0,1,,"$449,900",Andrea Geauvreau,613,296-3309
+224,Apartment,"101 QUEEN STREET UNIT#1205|Ottawa, Ontario K1P0B7",1 + 0,1,1,"$734,000",Denise Muller,613,899-2848
+225,Row / Townhouse,"100 GREENFIELD AVENUE|Ottawa, Ontario K1S5H7",3 + 0,3,3,"$1,299,000",Stephen George,613,862-0306
+226,Row / Townhouse,"860 KILBIRNIE DRIVE|Ottawa, Ontario K2J6G6",3 + 0,3,2,"$599,000",Jenna Swinwood,613,699-2079
+227,House,"3334 RIVERSIDE DRIVE|Ottawa, Ontario K1V8P1",4 + 0,3,,"$849,900",Natalie McGuire,613,859-8474
+228,House,"3336 RIVERSIDE DRIVE|Ottawa, Ontario K1V8P1",2 + 0,2,1,"$749,900",Natalie McGuire,613,859-8474
+229,Row / Townhouse,"2279 DESCARTES STREET|Orleans, Ontario K4A0W4",3 + 0,3,2,"$638,000",Ivana Novakovic,613,261-6962
+230,,"588 FERGUSON-TETLOCK ROAD|Smiths Falls, Ontario K7A4S4",,0,,"$499,000",Lisa Anne Brennan-Trudel,613,285-9646
+231,House,"628 MERKLEY DRIVE|Orleans, Ontario K4A1L4",4 + 0,4,2,"$875,000",Chris Millette,613,884-5544
+232,House,"568 ALESTHER STREET|Ottawa, Ontario K1K1J3",3 + 2,3,1,"$779,900",Lyne Burton,613,355-8029
+233,House,"30 D'ARCY'S WAY|Kemptville, Ontario K0G1J0",2 + 2,3,1,"$1,199,000",Marnie Bennett,613,233-8606
+234,House,"1085 CANAL WOODS TERRACE|Ottawa, Ontario K1S4H2",3 + 0,1,2,"$974,900",Marnie Bennett,613,233-8606
+235,Row / Townhouse,"544 CRESCENDO PRIVATE UNIT#29|Ottawa, Ontario K1X0E4",1 + 1,2,2,"$569,900",Lori A. Brown,613,324-3603
+236,House,"4525 KELLY FARM DRIVE|Gloucester, Ontario K1X0E7",3 + 1,3,2,"$1,089,000",Jeff Matheson,613,404-5700
+237,House,"144 KINGDON MINE ROAD|Fitzroy Harbour, Ontario K7S3G7",3 + 3,3,1,"$629,500",Terry Stavenow,613,623-4284
+238,House,"1371 STORYLAND ROAD|Renfrew, Ontario K7V3Z8",2 + 2,3,1,"$509,900",Matt Gibbs,613,850-2060
+239,Row / Townhouse,"514 EARNSCLIFFE GROVE|Ottawa, Ontario K4M0C9",3 + 0,4,2,"$775,000",Danielle Gervais,613,216-5151
+240,,"Lot 22 BENNETT LAKE ROAD UNIT#22|Maberly, Ontario K0H2B0",,0,,"$219,900",MIKE STERGIOU,519,381-4009
+241,Row / Townhouse,"740 NELSON STREET|Hawkesbury, Ontario K6A3P2",3 + 1,3,2,"$249,900",Tanya Myre,613,872-1191
+242,House,"255 Rue R.-Rollin|Gatineau (Gatineau), Quebec J8R1C6",3,1,2,"$159,900",Anik Maisonneuve,819,360-1028
+243,Apartment,"615 LONGFIELDS DRIVE UNIT#402|Ottawa, Ontario K2J6J3",2 + 0,2,4,"$599,000",Vince Campanale,613,730-7000
+244,House,"26 CORONET AVENUE|Ottawa, Ontario K2G6R8",2 + 1,3,1,"$899,900",Kevin Coady,613,314-9728
+245,House,"35 HAWKSTONE GATE|Ottawa, Ontario K2K0A3",1 + 1,2,2,"$549,900",Robert Kearns,613,238-2801
+246,House,"26 GREENBORO CRESCENT|Ottawa, Ontario K1T1W5",3 + 0,3,2,"$629,900",Stephanie Soutar,613,290-7340
+247,House,"334 TOWHEE PLACE|Ottawa, Ontario K2J5V3",4 + 1,3,2,"$985,000",Brandi Leclerc,613,355-7078
+248,Apartment,"234 RIDEAU STREET UNIT#701|Ottawa, Ontario K1N0A9",2 + 0,2,1,"$598,000",Jian Li,613,265-3568
+249,Row / Townhouse,"23 ELM STREET|Ottawa, Ontario K1R6M9",3 + 0,2,2,"$729,000",Christopher Scott,613,863-6999
+250,House,"898 LAWNSBERRY DRIVE|Orleans, Ontario K1E1X8",3 + 0,2,2,"$624,900",Catherine Joyce,613,296-3169
+251,Row / Townhouse,"1883 HENNESSY CRESCENT|Ottawa, Ontario K4A3X8",3 + 0,2,2,"$589,900",Natalie McGuire,613,859-8474
+252,Duplex,"1091 ALDEA AVENUE|Ottawa, Ontario K1H8C1",4 + 2,3,,"$799,900",Kathy McVeigh,613,859-7494
+253,Row / Townhouse,"126 HELEN RAPP WAY|Gloucester, Ontario K1T0N4",3 + 0,3,2,"$679,900",Eli Skaff,613,262-0212
+254,House,"26 FIRST AVENUE|Ottawa, Ontario K1S2G2",4 + 0,3,3,"$1,785,000",Chris Coveny,613,858-2188
+255,,"793 POWERS ROAD|Perth, Ontario K7H3C5",,0,,"$164,900",SHERI MAHON-FOURNIER,613,812-1215
+256,,"817 POWERS ROAD|Perth, Ontario K7H3C5",,0,,"$164,900",SHERI MAHON-FOURNIER,613,812-1215
+257,House,"142 BANK STREET S|Renfrew, Ontario K7V2E8",4 + 0,2,,"$399,900",Peter Vincent,613,432-0319
+258,House,"800 DU BERCAIL STREET|L'Orignal, Ontario K0B1K0",2 + 0,2,1,"$589,000",Francois Poirier,613,677-1349
+259,House,"5682 CASHION ROAD|Williamstown, Ontario K6K0A7",3 + 1,1,1,"$459,900",Alan McLaughlin-Wheeler,613,936-7044
+260,House,"88 Imp. des Vents|Gatineau (Gatineau), Quebec J8R4A8",5,2,2,"$699,900",Antoine Tétreault,819,921-5265
+261,House,"179 Ch. du Lac-McGuire|Mulgrave-et-Derry, Quebec J8L2W9",2,1,1,"$200,000",Anik Mainville,819,962-1997
+262,House,"976 ARKELL STREET|Ottawa, Ontario K2B5R3",2 + 1,2,1,"$725,000",Jennifer Mather,613,832-3082
+263,Row / Townhouse,"4 OAKLEY AVENUE UNIT#H|Ottawa, Ontario K2B6M6",3 + 0,3,2,"$725,000",Joni Campbell,613,371-9972
+264,House,"1961 CONCESSION 1 ROAD|Plantagenet, Ontario K1B1L0",3 + 0,2,1,"$499,900",Roxanne Emery,613,850-0774
+265,Row / Townhouse,"12 OFFENBACH LANE UNIT#F|Ottawa, Ontario K2G4Z9",3 + 0,4,2,"$588,800",Nick J. Kyte,613,862-2012
+266,House,"5876 BUCKLAND ROAD|Vars, Ontario K0A3H0",10 + 0,6,3,"$799,900",Mathieu Gignac,613,601-7499
+267,Row / Townhouse,"3103 ARMADA AVENUE|Ottawa, Ontario K1T1T6",3 + 0,2,2,"$429,900",Alex Sarazin,613,298-1166
+268,House,"2822 BASELINE ROAD|Ottawa, Ontario K2H1G9",0 + 2,2,2,"$445,000",Kevin Harsh,873,354-7300
+269,House,"6845 SPRINGRUN PLACE|Ottawa, Ontario K4P0E1",4 + 0,3,1,"$1,399,900",Kathy Kontogiannis,613,859-6302
+270,Row / Townhouse,"70 ROYAL FIELD CRESCENT|Nepean, Ontario K2J4E2",3 + 0,3,2,"$699,900",Marnie Bennett,613,233-8606
+271,Row / Townhouse,"534 STARGAZER CRESCENT|Ottawa, Ontario K4M0H2",3 + 0,3,2,"$798,800",Rachel Hammer,613,369-8314
+272,Row / Townhouse,"2014 CALTRA CRESCENT|Ottawa, Ontario K2J6V4",3 + 0,3,,"$749,000",Anthony Cava,613,227-3448
+273,House,"1213 CHECKERS ROAD|Ottawa, Ontario K2C2S8",3 + 0,2,2,"$849,900",Paul Noah,613,795-0010
+274,House,"2418 IRIS STREET|Ottawa, Ontario K2C1C6",3 + 3,2,1,"$669,900",Paul Noah,613,795-0010
+275,Row / Townhouse,"14 CLOUTIER STREET|Ottawa, Ontario K2J4T5",3 + 0,3,2,"$575,000",Brandy Burns,613,246-1600
+276,House,"1137 ST EMMANUEL TERRACE|Ottawa, Ontario K1C2J6",3 + 0,2,2,"$599,000",Sarah Cameron,613,862-4713
+277,House,"1423 BROUSEVILLE ROAD|Spencerville, Ontario K0E1X0",3 + 1,2,,"$379,000",Natalie Sobhie,613,913-7653
+278,Row / Townhouse,"161 KING EDWARD AVENUE|Ottawa, Ontario K1N7L2",3 + 1,3,3,"$749,900",Jason Polonski,613,601-9333
+279,House,"1366 MAXIME STREET|Ottawa, Ontario K1B3L1",4 + 0,2,2,"$549,000",Evan Davies,613,875-5323
+280,Apartment,"445 LAURIER AVENUE W UNIT#1705|Ottawa, Ontario K1N6R4",1 + 0,1,1,"$350,000",Joanne Hutchinson,613,868-0978
+281,House,"49 HILLSIDE LANE|Westport, Ontario K0G1X0",3 + 0,2,1,"$799,000",Tanya Lemcke,613,484-0121
+282,House,"11617 HENDERSON ROAD|Brinston, Ontario K0E1C0",2 + 0,1,2,"$389,000",Natalie Sobhie,613,913-7653
+283,Row / Townhouse,"10 GRAND HARBOUR COURT|Ottawa, Ontario K2S1H1",2 + 0,2,1,"$799,999",Zach Lyons,613,219-9364
+284,House,"547 Route Principale|Val-des-Monts, Quebec J8N4C1",1,1,1,"$200,000",Stéphane Chénier,819,210-7126
+285,,"10e Concession|Grenville-sur-la-Rouge, Quebec J0V1B0",,,,"$85,000",Jonathan Lacombe,514,966-3440
+286,House,"26 GRANTON STREET|Ottawa, Ontario K2G1W6",5 + 0,3,2,"$800,000",Shawn Kerwin,613,725-2950
+287,House,"1854 MAPLE GROVE ROAD|Ottawa, Ontario K2S0W3",4 + 1,4,2,"$1,260,000",Gary Underwood,613,862-3420
+288,,"76 Ch. Richens|Chelsea, Quebec J9B0G7",,,,"$329,900",Samuel Lavigueur,819,209-9681
+289,Triplex,"3 Rue de l'Automne|Gatineau (Hull), Quebec J9A3S5",2,1,3,"$899,000",Michel Vuillermin,819,360-5005
+290,,"68 Ch. Richens|Chelsea, Quebec J9B0G7",,,,"$349,900",Karl Saumur,819,968-2556
+291,House,"111 BRUNET STREET|Limoges, Ontario K0A2M0",3 + 0,2,2,"$499,900",T.J. GORDON,613,200-1257
+292,,"2715 EAGLESON ROAD|Ottawa, Ontario K2S1B8",,0,,"$2,407,500",Jason MacDonald,613,297-5712
+293,,"6249 RICHMOND ROAD|Ottawa, Ontario K0A2Z0",,0,,"$2,530,500",Jason MacDonald,613,297-5712
+294,,"6033 RICHMOND ROAD|Ottawa, Ontario K0A2Z0",,0,,"$649,500",Jason MacDonald,613,297-5712
+295,,"2623 HUNTLEY ROAD|Ottawa, Ontario K2S1B8",,0,,"$895,800",Jason MacDonald,613,297-5712
+296,House,"672 Rue Asselin|Gatineau (Gatineau), Quebec J8P3H7",3,1,2,"$324,900",René Duguay,819,923-3724
+297,House,"308 Rue du Louvre|Gatineau (Aylmer), Quebec J9J0B2",4,1,2,"$499,900",Yannick Arseneault,819,360-6967
+298,House,"9 Rue Omer-Lahaie|Gatineau (Masson-Angers), Quebec J8M1A5",3,1,2,"$384,900",Pierre Gagnon,819,281-4131
+299,House,"70 R12 ROAD|Lombardy, Ontario K0G1L0",3 + 0,2,1,"$999,000",SHERI D'AOUST,613,812-9344
+300,House,"140 Rue Laval|Papineauville, Quebec J0V1R0",1,1,1,"$299,000",Jocelyne Boudreault,514,250-3333
+301,,"Rue Laval|Papineauville, Quebec J0V1R0",,,,"$75,000",Jocelyne Boudreault,514,250-3333
+302,House,"993 MUSSELL ROAD|Oxford Mills, Ontario K0G1S0",3 + 1,1,1,"$615,000",SHERI D'AOUST,613,812-9344
+303,,"Route des Outaouais|Brownsburg-Chatham, Quebec J8G1T6",,,,"$179,500",Sylvain Lessard,514,591-6549
+304,House,"116 Ch. Comeau|La Pêche, Quebec J0X1T0",3,1,1.5,"$449,000",Danny Sivyer,613,769-4884
+305,House,"100 ONTARIO STREET|Ottawa, Ontario K1K1K9",2 + 2,2,,"$849,900",Eduardo Alculumbre,613,325-2103
+306,Row / Townhouse,"877 SOLARIUM AVENUE|Manotick, Ontario K4M0K9",4 + 0,3,2,"$749,000",Philip Parnanzone,613,795-7804
+307,,"15394 RAYMOND ROAD|Newington, Ontario K0C1Y0",,0,,"$124,900",Wade Ruest,613,363-8261
+308,House,"2805 FLANNERY DRIVE|Ottawa, Ontario K1V9S9",3 + 0,3,2,"$739,000",Andre L. Major,613,262-0606
+309,House,"2716 CONN STREET|Ottawa, Ontario K2B7C7",2 + 2,2,,"$774,900",Lucy Webster,613,884-2809
+310,House,"744 BRITTANIC ROAD|Ottawa, Ontario K2V0N7",4 + 0,3,2,"$939,900",Victor Vigas,613,263-0027
+311,Row / Townhouse,"263 MONTMORENCY Way|Orleans, Ontario K4A0J9",3 + 0,4,2,"$724,900",STEVEN LONEY,519,266-3560
+312,Row / Townhouse,"100 MARRISSA AVENUE|Ottawa, Ontario K1J0A6",3 + 0,3,2,"$799,900",Anas Saleh,613,608-0872
+313,House,"1470 BREWER ROAD|Sharbot Lake, Ontario K0H2P0",2 + 0,1,1,"$309,900",Serge Brisson,613,850-0490
+314,,"LAND O'NOD ROAD|Merrickville, Ontario K0G1R0",,0,,"$140,000",Eileen Pinder,613,720-1521
+315,House,"18 Rue Major|Ripon, Quebec J0V1V0",3,1,1,"$299,900",Richard Larose,819,360-6888
+316,House,"5620 ROCKDALE ROAD UNIT#165|Vars, Ontario K0A3H0",4 + 1,1,,"$299,900",Claudette Leduc,613,371-3871
+317,Row / Townhouse,"74 THISTLEDOWN COURT|Ottawa, Ontario K2J1M9",3 + 0,2,2,"$445,000",Jaclyn Beaudoin,613,914-8671
+318,Apartment,"75 CLEARY AVENUE UNIT#203|Ottawa, Ontario K2A1R8",2 + 0,2,1,"$645,000",Erica Maiorino,613,721-7434
+319,House,"15 COLLEGE STREET|Iroquois, Ontario K0E1K0",4 + 0,2,2,"$399,900",Tracey Veinotte,613,363-9496
+320,House,"9 ARCHER SQUARE|Ottawa, Ontario K1V9Y8",3 + 0,3,2,"$850,000",Randy Stevinson,613,724-1345
+321,House,"162 Rue des Scouts|Gatineau (Aylmer), Quebec J9J0L2",3,2,1,"$649,900",Matthieu Jodoin,819,923-4499
+322,,"1188 Route Principale|Val-des-Monts, Quebec J8N2K7",,,,"$90,000",Yann Quéré,819,282-9213
+323,House,"74 Rue du Mont-Luc|Gatineau (Gatineau), Quebec J8V2P1",5,2,2,"$769,900",Jean-Michel Brisebois,819,918-8858
+324,House,"2487 SIXTH LINE ROAD|Ottawa, Ontario K0A1T0",4 + 0,3,2,"$2,595,000",Adam Major,800,831-3726
+325,Row / Townhouse,"166 SOLEIL AVENUE|Ottawa, Ontario K4A0V9",3 + 0,2,2,"$599,900",Jeffrey Usher,613,829-1000
+326,,"00 BURNIE ROAD|Spencerville, Ontario K0E1X0",,0,,"$199,900",Jill Dulmage,613,620-0011
+327,House,"25 Ch. Cedarvale|Pontiac, Quebec J0X2G0",2,1,1,"$259,900",Stefano Ferla,819,923-3918
+328,Apartment,"555 BRITTANY DRIVE UNIT#211|Ottawa, Ontario K1K4C5",2 + 0,2,1,"$312,000",Lisa Hiemstra,855,999-9740
+329,House,Address not available,3 + 0,2,,"$209,900",John A.(Sandy) Cameron,613,933-3283
+330,Row / Townhouse,"267 SORENTO STREET|Ottawa, Ontario K2J0B4",3 + 1,4,2,"$629,900",Nim Moussa,613,298-6461
+331,House,"642 BEATRICE DRIVE|Ottawa, Ontario K2J0H8",3 + 1,4,2,"$779,900",Mark Lalonde,613,614-1423
+332,House,"63-303 FIR LANE|Kemptville, Ontario K0G1J0",0 + 2,2,2,"$334,927",Peter Bare,613,451-0000
+333,House,"20920 CONCESSION 9 ROAD|Green Valley, Ontario K7S3G9",4 + 0,4,2,"$849,900",Angela McGregor,613,360-2242
+334,House,"326 Rue Séguin|Gatineau (Gatineau), Quebec J8P3H4",4,2,2,"$399,900",Yannick Arseneault,819,360-6967
+335,House,"37 Rue de la Normandie|Gatineau (Hull), Quebec J8Z1N5",3,4,1,"$735,000",Philip LeMay,819,923-7777
+336,House,"411 Rue Martin|Gatineau (Gatineau), Quebec J8P3K6",5,2,1,"$399,900",Daniel Poitras,819,210-2530
+337,Apartment,"15 Place Mathieu-Danis|La Pêche, Quebec J0X3G0",2,1,2,"$595,000",Nicolas Rainville,819,319-2306
+338,Row / Townhouse,"6787 BREANNA CARDILL STREET|Ottawa, Ontario K4P0C3",3 + 0,4,2,"$550,000",Marco Distefano,855,408-9468
+339,House,"84 ST CLAIRE AVENUE|Ottawa, Ontario K2G2A4",4 + 1,3,2,"$900,000",Dorothy Kralt,613,859-7254
+340,Row / Townhouse,"2252 WATERCOLOURS WAY|Ottawa, Ontario K2J5J8",2 + 0,2,2,"$510,000",Hosnia Qazi,613,852-2806
+341,House,"116 CROFTERS GROVE|Dunrobin, Ontario K0A1T0",2 + 0,1,1,"$749,900",John Roberts,613,832-0902
+342,Row / Townhouse,"154 DEERCROFT AVENUE|Ottawa, Ontario K2J5H9",3 + 0,3,2,"$679,900",Donald Hewie,613,883-1516
+343,House,"213 Rue F.-Béland|Gatineau (Gatineau), Quebec J8R1G2",3,1,2,"$329,900",Daniel Caya,819,712-2732
+344,House,"307 Rue Dundas|Shawville, Quebec J0X2Y0",3,1,2,"$319,900",Monique Montsion,819,682-3737
+345,House,"837 Boul. Hurtubise|Gatineau (Gatineau), Quebec J8P1Z7",4,2,2,"$799,000",Daniel Caya,819,712-2732
+346,House,"79 Rue Claude-Monet|Gatineau (Gatineau), Quebec J8P8C3",5,2,1,"$579,000",Stéphane Bisson,819,743-2922
+347,House,"122 RYLAND STREET|Ottawa, Ontario K2J4V3",4 + 0,4,2,"$1,179,500",Leo Grant,613,801-8326
+348,Apartment,"242 RIDEAU STREET UNIT#1403|Ottawa, Ontario K1N0B7",1 + 0,1,1,"$454,900",Gerald Sinotte,613,762-2134
+349,House,"13 DICEMAN CRESCENT|Ottawa, Ontario K1B3Y2",4 + 0,3,2,"$849,000",Christiane Bauer,613,323-6700
+350,Apartment,"635 RICHMOND ROAD UNIT#5|Ottawa, Ontario K2A0G6",1 + 0,2,,"$695,000",Kent Johnston,613,447-4995
+351,Row / Townhouse,"4 FIELDBERRY PRIVATE|Ottawa, Ontario K2J5E7",3 + 0,3,2,"$650,000",Allison Chisholm,613,869-0864
+352,House,"712 WILLOWBURN STREET|Ottawa, Ontario K1T0J2",4 + 0,3,,"$929,000",John Creppin,613,235-2737
+353,House,"4918 DESJARDINS STREET|Martintown, Ontario K0C1S0",3 + 1,2,1,"$330,000",Tanya Flaro,613,330-3580
+354,House,"324 GARDNER AVENUE|Cornwall, Ontario K6H5H8",3 + 1,2,1,"$419,900",Alan McLaughlin-Wheeler,613,936-7044
+355,House,"6302 EMERALD LINKS DRIVE|Ottawa, Ontario K4P1M4",4 + 1,6,2,"$2,299,000",Christopher Lacharity,613,240-8609
+356,House,"135 HILLIER STREET|Lanark, Ontario K0G1K0",2 + 0,1,1,"$249,900",SHERI D'AOUST,613,812-9344
+357,House,"182 Rue Caron|Gatineau (Hull), Quebec J8Y1Z7",3,1,2,"$289,900",Martin W. Simard,819,209-6278
+358,Row / Townhouse,"1003 CEDAR CREEK DRIVE|Ottawa, Ontario K1X0G4",3 + 0,3,2,"$679,000",Jeff Matheson,613,404-5700
+359,House,"1315 LASCELLE AVENUE|Cornwall, Ontario K6H3K9",2 + 2,2,1,"$389,000",Jen Blair Manley,613,551-4133
+360,House,"1894 MARKWELL CRESCENT|Orleans, Ontario K1C5H6",3 + 0,3,2,"$641,800",Jocelyne Lauzon,613,824-1352
+361,Row / Townhouse,"2051 JASMINE CRESCENT UNIT#4|Ottawa, Ontario K1J7W2",3 + 0,2,2,"$489,900",Saadiq Hussain,613,860-7355
+362,Manufactured Home,"10146 COUNTY ROAD 43 ROAD UNIT#22|Mountain, Ontario K0E1S0",2 + 0,1,,"$179,900",Lynne Robinson,613,258-7486
+363,Apartment,"143 Av. des Grands-Jardins|#201|Gatineau (Gatineau), Quebec J8V0B7",2,2,3,"$428,000",Rachel Viau,819,962-1188
+364,House,"121 DISCOVERY CRESCENT|Ottawa, Ontario K2S0Z9",4 + 0,4,2,"$1,390,000",Marina Karshuli,613,402-6003
+365,Modular,"307 TRUDEAU STREET|Russell, Ontario K4R1E5",3 + 0,3,,"$988,000",Ryan Rogers,613,282-2077
+366,Apartment,"429 KENT STREET UNIT#324|Ottawa, Ontario K2P1B5",1 + 0,1,1,"$419,900",Eugine Wong,613,878-2388
+367,House,"737 FAIRDALE AVENUE|Ottawa, Ontario K1G1X6",4 + 0,2,,"$859,900",Manfred Schlesiger,613,276-7169
+368,House,"355 JACKSON STITT CIRCLE|Stittsville, Ontario K2S0C4",2 + 1,3,1,"$980,000",Timothy Larocque,613,668-2710
+369,Row / Townhouse,"1992 FALKIRK CRESCENT|Ottawa, Ontario K1B4Y7",3 + 0,3,2,"$450,000",Marco Distefano,855,408-9468
+370,Row / Townhouse,"1018 CANDLEWOOD STREET|Ottawa, Ontario K2A1C8",3 + 0,3,2,"$579,000",Eduardo Andrade,613,795-5457
+371,House,"278 Boul. de la Cité-des-Jeunes|Gatineau (Hull), Quebec J8Y6L3",5,2,1,"$577,700",Daniel Poitras,819,210-2530
+372,,"460 HIGHLAND AVENUE|Ottawa, Ontario K2A2J6",,0,,"$1,675,000",Alexandra Faulkner,613,231-4663
+373,Row / Townhouse,"106 JARDINIERE STREET|Ottawa, Ontario K2S2K2",3 + 0,3,2,"$550,000",Marco Distefano,855,408-9468
+374,House,"21 MONACO CRESCENT|Cornwall, Ontario K6H5Z1",3 + 0,2,2,"$549,000",Jo Ann Langstaff,613,577-1873
+375,Apartment,"63 Rue du Zénith|#3|Gatineau (Hull), Quebec J9A0A5",2,1,3,"$338,900",Élodie Roy,819,328-6313
+376,House,"133 Crois. Bingley|Pontiac, Quebec J0X2G0",3,2,1,"$1,499,900",Christian Poirier,819,790-3776
+377,House,"339 Rue Du Vigneau|Gatineau (Gatineau), Quebec J8P5V9",2,2,1,"$349,900",Jonathan Sigouin,819,743-5678
+378,House,"3135 LEMAY CIRCLE|Rockland, Ontario K4K1A5",3 + 1,3,2,"$574,900",Yanick Dagenais,613,617-3834
+379,Apartment,"1599 LASSITER TERRACE UNIT#707|Ottawa, Ontario K1J6R8",2 + 0,2,1,"$299,900",Cody McMillan,613,899-2639
+380,House,"208 RIVERTREE STREET|Ottawa, Ontario K2S1V3",3 + 1,4,2,"$899,000",Piriya Paramananthan,613,983-4663
+381,House,"1411 LOCHIEL STREET|Cornwall, Ontario K6H6V8",3 + 2,2,,"$539,900",Rob Poulin,613,930-5555
+382,House,"100 PINHEY STREET|Ottawa, Ontario K1Y1T4",3 + 0,3,3,"$924,900",Todd McLaughlin,613,697-6186
+383,Row / Townhouse,"112 GROVEMONT DRIVE|Ottawa, Ontario K2G6Z4",3 + 0,3,2,"$698,000",David Haynes,613,795-7111
+384,House,"61 COLLINGTON STREET|Ottawa, Ontario K2G6X3",3 + 0,3,2,"$765,000",Christopher Nash,613,869-6274
+385,House,"1887 LABONTE STREET|Clarence Creek, Ontario K0A1N0",1 + 0,2,,"$250,000",Mario Lemieux,613,889-9259
+386,Triplex,"98 Rue Marengère|Gatineau (Gatineau), Quebec J8T3T8",2,1,,"$550,000",Mathieu Arseneault,819,664-0629
+387,Row / Townhouse,"472 KILSPINDIE RIDGE|Ottawa, Ontario K2J5M8",3 + 0,3,2,"$859,900",Monica Haddow,613,979-7653
+388,House,"1460 PRESTONE DRIVE|Ottawa, Ontario K1E1M4",3 + 0,3,2,"$699,900",Irene Bilinski,613,858-1151
+389,House,"71 Rue Louis-Riel|Gatineau (Gatineau), Quebec J8T1Y2",3,2,1,"$429,900",Steve Waters,613,889-2580
+390,,"121 Ch. de l'Aventure|Pontiac, Quebec J0X2G0",,,,"$149,900",Nick Chénier,819,598-7580
+391,,"57 Ch. Mary|L'Ange-Gardien, Quebec J8L0J5",,,,"$139,900",Patrick Molla,819,744-7508
+392,Apartment,"823 Boul. du Plateau|#11|Gatineau (Hull), Quebec J9J1N7",3,1,,"$379,900",Steven Tchamdja,873,355-6789
+393,Row / Townhouse,"68 KINGS LANDING PRIVATE|Ottawa, Ontario K1S5P8",2 + 0,3,3,"$934,900",Jake Prescott,613,233-4488
+394,Apartment,"500 LAURIER AVENUE W UNIT#202|Ottawa, Ontario K1R5E1",2 + 0,2,1,"$449,900",Amy Storie,613,816-8000
+395,Triplex,"138 Rue Amherst|Gatineau (Hull), Quebec J8Y2W9",2,1,,"$549,900",Matthieu Jodoin,819,923-4499
+396,House,"146 Ch. de la Rive|Low, Quebec J0X2C0",3,2,1.5,"$640,000",Stephen M. Lynott,613,859-5585
+397,House,"42 MERSEY DRIVE|Ottawa, Ontario K2K3A7",3 + 0,4,2,"$697,900",Elena Levin,613,263-3558
+398,House,"223 MCGILLIVRAY STREET|Ottawa, Ontario K1S1L1",3 + 0,2,2,"$1,195,000",Robert Marland,613,769-9157
+399,House,"19 GARAND PLACE|Ottawa, Ontario K1H8M1",5 + 0,3,2,"$1,700,000",Sue Paruch,613,731-8188
+400,Apartment,"305 ELIZABETH COSGROVE PRIVATE UNIT#202|Ottawa, Ontario K1W0K6",2 + 0,2,1,"$584,900",Anna Alemi,613,255-4442
+401,House,"1336 ALFRED STREET|Cornwall, Ontario K6J4Z8",3 + 2,2,1,"$425,000",D.A. MacMillan,613,360-1078
+402,House,"235 FORBES ROAD|Merrickville, Ontario K0G1N0",2 + 0,1,,"$1,495,000",Chris Drozda,613,223-6625
+403,House,"155 EQUITATION CIRCLE|Ottawa, Ontario K0A2Z0",4 + 0,4,2,"$1,099,999",Marc Robitaille,613,619-5758
+404,House,"8 STEPHANIE AVENUE|Ottawa, Ontario K2E7A9",4 + 1,5,2,"$1,825,000",Marilyn Wilson,613,842-5000
+405,Row / Townhouse,"107 DALECROFT CRESCENT|Ottawa, Ontario K2G5V8",3 + 0,3,2,"$499,888",Ahmad Moharam,613,883-7060
+406,House,"40 SPRUCE STREET|Ingleside, Ontario K0C1M0",3 + 1,2,1,"$499,900",Penny Rudderham,613,930-3377
+407,House,"564 HWY 15 HIGHWAY|Lombardy, Ontario K0G1L0",3 + 1,1,,"$350,000",Moe McIlwain,613,299-3100
+408,House,"63 CORMACK CIRCLE|Ottawa, Ontario K2J0H8",3 + 0,3,2,"$699,900",Nim Moussa,613,298-6461
+409,House,"173 ARMSTRONG STREET|Ottawa, Ontario K1Y2W2",3 + 0,3,3,"$1,050,000",Shane Lanigan,613,882-1221
+410,House,"207 MARION STREET|Russell, Ontario K4R1E5",2 + 0,1,1,"$599,900",Emily Blanchard,613,774-4253
+411,House,"13217 RIVERSIDE DRIVE|Morrisburg, Ontario K0C1X0",3 + 0,2,1,"$439,000",Chantal Sansoucy,613,362-9620
+412,Apartment,"369 NORTH RIVER ROAD UNIT#308|Ottawa, Ontario K1L8C2",2 + 0,2,1,"$579,000",Dan Mayer,613,315-8363
+413,House,"64 Ch. St-Louis|La Pêche, Quebec J0X2W0",3,2,2,"$494,900",Kristian Poirier,819,230-9111
+414,House,"791 Av. du Cheval-Blanc|Gatineau (Gatineau), Quebec J8R3Z7",3,1,1,"$439,900",Mathieu Trépanier,819,593-0588
+415,House,"11 Ch. de la Prairie|La Pêche, Quebec J0X2W0",3,2,1.5,"$275,000",Louis-Philippe Pidgeon,819,744-0807
+416,Row / Townhouse,"1482 HEATHERINGTON ROAD UNIT#F|Ottawa, Ontario K1V6S1",3 + 0,2,2,"$299,900",Rony Rizk,613,513-7495
+417,,"Ch. de Tancredia|L'Île-du-Grand-Calumet, Quebec J0X1J0",,,,"$299,900 +  GST +  QST",Dwight Kucharik,819,661-5761
+418,,"Ch. de la Montagne|L'Île-du-Grand-Calumet, Quebec J0X1J0",,,,"$115,000",Dwight Kucharik,819,661-5761
+419,Duplex,"284 Boul. Alexandre-Taché|Gatineau (Hull), Quebec J9A1L9",3,1,,"$629,900",Mélanie Cyr,819,246-0969
+420,House,"117Z Rue Bourque|Gatineau (Hull), Quebec J8Y1X7",6,3,2,"$529,900",Kevin Whissell,819,639-5689
+421,House,"611 Av. des Tilleuls|Gatineau (Aylmer), Quebec J9J0S8",2,1,1,"$589,900",Kristian Poirier,819,230-9111
+422,House,"6 RENSHAW AVENUE|Ottawa, Ontario K2S1G9",4 + 0,4,2,"$950,000",Jennifer Chamberlain,613,818-5662
+423,Row / Townhouse,"185 RIVINGTON STREET|Ottawa, Ontario K0A1L0",1 + 1,2,1,"$575,000",Cathy Zuana,613,614-2666
+424,House,"23 Rue Bancroft|Gatineau (Aylmer), Quebec J9H4N3",4,2,2,"$349,900",Marty Waite,819,665-0033
+425,House,"5 HEMLO CRESCENT|Ottawa, Ontario K2T1C7",3 + 0,3,2,"$949,900",Ashley Moore,613,301-5338
+426,Apartment,"351-1 Boul. des Grives|Gatineau (Hull), Quebec J9A0A2",1,1,3,"$186,900",Macha Khoudja Poirier,819,210-5300
+427,House,"2 GARLAND STREET|Ottawa, Ontario K1Y2A4",2 + 0,2,2,"$1,200,000",Jason Spartalis,613,266-2460
+428,,"Ch. de la Montagne|L'Île-du-Grand-Calumet, Quebec J0X1J0",,,,"$115,000",Dwight Kucharik,819,661-5761
+429,House,"56 HENFIELD AVENUE|Ottawa, Ontario K2J1J8",4 + 0,3,2,"$599,900",Kelly Tchorewski,613,862-5905
+430,House,"931 COUNTY 2 ROAD|Cardinal, Ontario K0E1E0",2 + 0,1,1,"$349,900",Eric Banville,613,662-3320
+431,Row / Townhouse,"157 MATTINGLY WAY|Ottawa, Ontario K4M0C5",3 + 0,3,2,"$659,000",Winnie Wen Mei,613,222-6581
+432,House,"119 ROYAL LANDING GATE|Kemptville, Ontario K0G1J0",2 + 1,3,1,"$835,000",Nina Tachuk,613,725-6462
+433,House,"556 DENBURY AVENUE|Ottawa, Ontario K2A2N9",5 + 0,4,,"$1,449,000",Jacen Matthews,613,296-8582
+434,House,"3805 BIG RIDEAU LAKE ROAD|Portland, Ontario K0G1V0",3 + 0,2,1,"$799,000",SCOTT BURNS,613,498-4201
+435,House,"172 BONNEYLEY CRESCENT|Kemptville, Ontario K0G1J0",4 + 1,4,2,"$1,199,950",Chris Drozda,613,223-6625
+436,House,"16 STRACHAN AVENUE|Long Sault, Ontario K0C1P0",3 + 0,2,1,"$279,900",Heather Ouderkirk,613,861-2607
+437,House,"651 COUNTY ROAD 29 ROAD|Jasper, Ontario K0G1G0",4 + 0,2,,"$359,900",Paul Schnittker,613,256-7285
+438,House,"7406 BLEEKS ROAD|Ottawa, Ontario K0A1B0",3 + 0,2,2,"$959,900",Bonnie Jensen,613,720-3050
+439,House,"185 LINDSAY LANE|Renfrew, Ontario K0A3L0",2 + 0,2,1,"$1,098,000",Lucy Webster,613,884-2809
+440,House,"48 MEADOWGLEN CIRCLE|Kemptville, Ontario K0G1J0",3 + 0,3,1,"$900,000",Jaime Peca,613,326-1818
+441,Apartment,"324 LAURIER AVENUE UNIT#1809|Ottawa, Ontario K1N6P6",2 + 0,2,1,"$699,900",Maureen Yates,613,277-1963
+442,House,"1080 DES PINS AVENUE|Rockland, Ontario K4K1N2",3 + 0,2,2,"$374,900",Allister Beauchamp,613,286-1267
+443,House,"507 ADAMSON CRESCENT|Stittsville, Ontario K2S2A6",4 + 0,4,2,"$899,999",Ashley Lemery,613,407-9678
+444,Row / Townhouse,"2053 FRANK BENDER BOULEVARD|Ottawa, Ontario K1C1M7",1 + 2,3,2,"$575,000",Samira Shahbazian,613,853-9988
+445,House,"4317 GOLDENEYE WAY|Ottawa, Ontario K1V2H2",3 + 1,4,2,"$819,900",Wayne Barr,613,297-4852
+446,Row / Townhouse,"1949 GREENVALE LANE|Ottawa, Ontario K1C6E2",3 + 0,2,2,"$398,000",Anna Turner,613,769-4747
+447,House,"508 BRAYDON AVENUE|Ottawa, Ontario K1G0W8",3 + 1,2,1,"$938,000",Tania Kohl,613,857-0857
+448,House,"144 GLAMORGAN DRIVE|Ottawa, Ontario K2L1R8",3 + 0,2,3,"$499,900",Matthew Gannon,613,889-5874
+449,House,"73 DALLAIRE CRESCENT|Richmond, Ontario K0A2Z0",3 + 0,2,,"$649,600",Orlene Campbell,613,290-8372
+450,House,"9 LEATHERWOOD CRESCENT|Nepean, Ontario K2J4X8",4 + 0,3,2,"$1,149,000",Luxing (Lucy) Hua,613,601-0830
+451,House,"471 BRIAR AVENUE|Ottawa, Ontario K1H5H5",3 + 0,3,1,"$1,100,000",Thomas Hare,613,298-7209
+452,Row / Townhouse,"405 MACKAY STREET UNIT#A|Ottawa, Ontario K1M2C5",2 + 0,2,3,"$799,900",Ben Stelmach,613,850-2430
+453,House,"300 KENYON ROAD|Perth, Ontario K7H3C5",2 + 0,2,1,"$1,199,000",JEAN SHARPE,613,464-0008
+454,House,"4 GEORGE STREET S|Smiths Falls, Ontario K7A1X4",7 + 0,5,2,"$579,900",CHRISTIAN ALLAN,613,207-0834
+455,House,"166 HOME AVENUE|Vankleek Hill, Ontario K0B1R0",3 + 2,2,1,"$749,900",Doreen Low,613,677-6220
+456,House,"73 Rue de la Baie|Gatineau (Gatineau), Quebec J8T3H4",3,2,2,"$599,900",Marty Waite,819,665-0033
+457,House,"278 Rue Spruce|Gatineau (Gatineau), Quebec J8T5G7",3,2,2,"$344,900",Lyne Ménard,819,639-5204
+458,House,"23 Ch. Patrick|Chelsea, Quebec J9B1M4",4,2,1,"$999,000",Daniel Caya,819,712-2732
+459,House,"53 Rue Desjardins|Gatineau (Hull), Quebec J8Y6B1",2,2,1,"$499,900",Mylène Cloutier,819,923-6600
+460,House,"2035 Rue St-Louis|Gatineau (Gatineau), Quebec J8T4H6",3,2,2,"$549,900",Marty Waite,819,665-0033
+461,Apartment,"168 Rue de Morency|#201|Gatineau (Gatineau), Quebec J8V2H5",2,1,4,"$374,900",Médéric Danis,819,210-6543
+462,House,"16 SAWYER WAY|Kanata, Ontario K2M2W2",3 + 1,3,2,"$849,000",Glen Walton,613,799-6308
+463,House,"159 LOUISE STREET|Rockland, Ontario K4K1R7",3 + 0,3,2,"$589,900",Allister Beauchamp,613,286-1267
+464,Row / Townhouse,"87 THISTLEDOWN COURT|Ottawa, Ontario K2J1J5",3 + 0,2,2,"$519,999",Nicolas Dagher,613,715-0662
+465,House,"210 CEDARSTONE STREET|Ottawa, Ontario K0A2Z0",3 + 2,3,1,"$899,900",Ben Wightman,613,838-4858
+466,House,"1402 TANGUAY COURT|Kanata, Ontario K2L3X7",0 + 2,2,2,"$349,900",Mike MacGowan,613,859-1317
+467,House,"158 HIGHBURY PARK DRIVE|Ottawa, Ontario K2J5Y1",4 + 0,3,2,"$769,900",Patrick Creppin,613,825-8802
+468,House,"1340 STE-MARIE STREET|Embrun, Ontario K0A1W0",3 + 0,2,2,"$769,900",Maggie Tessier,613,443-4300
+469,House,"35 HEREFORD PLACE|Ottawa, Ontario K1Y3S6",4 + 0,2,2,"$1,050,000",Susan Chell,613,563-1717
+470,Row / Townhouse,"3146 OLYMPIC WAY|Ottawa, Ontario K1T1Z1",3 + 0,3,2,"$299,000",Mohnish Aggerwal,613,266-7912
+471,House,"4 CRAWFORD STREET|Cobden, Ontario K0J1K0",3 + 0,2,2,"$349,900",Clint Pettigrew,613,614-4740
+472,,"294 SOMERSET STREET E|Ottawa, Ontario K1N6W1",,0,,"$1,099,900",Steve Alexopoulos,866,530-7737
+473,House,"42 BEVERLY STREET|Ottawa, Ontario K2S0S2",4 + 2,4,1,"$1,299,900",Tarek El Attar,613,733-9494
+474,Row / Townhouse,"2087 BREEZEWOOD STREET|Orleans, Ontario K4A4R7",3 + 0,3,2,"$624,900",Carl Bougie,613,676-1859
+475,House,"8096 VICTORIA STREET|Metcalfe, Ontario K0A2P0",3 + 0,3,,"$924,900",Brittany Bekkers,613,612-5383
+476,House,"4875 BOLINGBROKE ROAD|Maberly, Ontario K0H2B0",2 + 0,2,2,"$479,900",Janda Shamess,866,336-9637
+477,House,"198 DRIVE IN ROAD|Pembroke, Ontario K8A7P4",3 + 2,2,1,"$389,900",Dan Vodenicar,613,639-8783
+478,House,"1013 CLEMENT Road|Sharbot Lake, Ontario K0H2P0",2 + 0,3,2,"$449,900",ANNETTE GRAY-JACKSON,613,279-2108
+479,Row / Townhouse,"363 IVAN CRESCENT|Cornwall, Ontario K6H7C7",2 + 1,2,1,"$299,900",Sandy Cameron,613,363-9339
+480,House,"1404 CUMBERLAND STREET|Cornwall, Ontario K6J4K7",3 + 1,2,1,"$329,900",Tanya Flaro,613,330-3580
+481,Row / Townhouse,"3247 BANNON WAY|Ottawa, Ontario K1T1T2",3 + 0,2,2,"$369,900",Jonathan Bergeron,613,862-0611
+482,Row / Townhouse,"14 WOODFORD WAY|Ottawa, Ontario K2J4C4",3 + 0,3,3,"$599,900",Bryna Prubant,613,830-3350
+483,House,"460 HIGHLAND AVENUE|Ottawa, Ontario K2A2J6",4 + 0,2,2,"$1,675,000",Alexandra Faulkner,613,231-4663
+484,House,"1074 BLUE HERON Ridge|Arden, Ontario K0H1B0",2 + 0,2,1.5,"$999,900",CHRISTOPHER JONES,343,363-6328
+485,House,"3503 BRUCE STREET|Cornwall, Ontario K6K1N4",3 + 0,1,1,"$499,900",Tanya Flaro,613,330-3580
+486,House,"204 Ch. Jean-Paul-Lemieux|Chelsea, Quebec J9B0C2",4,2,2,"$874,900",Stéphan Casselman,819,328-0319
+487,House,"545 Ch. Robitaille|L'Ange-Gardien, Quebec J8L0T7",3,1,2,"$399,900",Jonathan Doucet,819,923-9993
+488,Apartment,"918 Boul. du Plateau|#2|Gatineau (Aylmer), Quebec J9J0C2",1,1,3,"$229,900",Mathieu Trépanier,819,593-0588
+489,House,"183 Rue de la Plaine|Gatineau (Gatineau), Quebec J8V4B8",4,1,2,"$545,000",Tracy Escander,613,324-3781
+490,House,"1250Z Route Principale|Val-des-Monts, Quebec J8N2K6",3,1,1,"$599,900",Mélanie Cyr,819,246-0969
+491,House,"3 CAMBIOR CRESCENT|Ottawa, Ontario K2T1J3",4 + 1,4,2,"$1,195,000",Douglas Herbert,613,725-1171
+492,House,"73 CRAIG STREET|Russell, Ontario K4R1A2",3 + 1,3,1,"$849,900",Dawna Hamilton,613,227-7777
+493,House,"122 JACK LOUGHEED WAY|Fitzroy Harbour, Ontario K0A1X0",3 + 1,2,1,"$699,900",Charlotte Leitch,613,864-6910
+494,House,"76 FIFTH STREET E|Morrisburg, Ontario K0C1X0",2 + 1,2,1,"$439,900",Jeffrey Usher,613,829-1000
+495,Row / Townhouse,"1793 LAMOUREUX DRIVE|Ottawa, Ontario K1E2H3",3 + 0,3,2,"$499,900",Marcus Noel,613,864-6635
+496,Row / Townhouse,"6050 PINEGLADE CRESCENT|Ottawa, Ontario K1W1G8",3 + 0,3,2,"$669,900",Toyin Adewoye,613,851-6436
+497,,"3037 CROW LAKE Road|Sharbot Lake, Ontario K0H2P0",,,,"$249,900",KAILA BALESDENT,613,817-8288
+498,House,"193 WILBROD ST|Ottawa, Ontario K1N6L4",3 + 1,4,2,"$1,499,900",MARK PERSAUD,647,210-5105
+499,Row / Townhouse,"2484 AUTUMN HILL CRESCENT|Ottawa, Ontario K1B4M5",4 + 0,2,2,"$589,900",Shane Silva,613,795-1021
+500,House,"1490 LISBON STREET|Orleans, Ontario K4A4L6",4 + 0,3,2,"$899,900",Mathieu Gignac,613,601-7499
+501,House,"114 RITA AVENUE|Ottawa, Ontario K2G2H3",4 + 0,5,2,"$2,295,000",Nancy O'Dea,613,422-8688
+502,House,"3 WERSCH LANE|Ottawa, Ontario K2J5E4",5 + 0,5,2,"$2,069,000",Larissa Jourkina,613,794-8994
+503,,"2409 CARLSEN AVENUE|Ottawa, Ontario K1V8E9",,0,,"$1,495,000",Ellen Hughes,613,858-8640
+504,House,"357 RIDGESIDE FARM DRIVE|Ottawa, Ontario K2W0A1",3 + 1,4,2,"$1,499,000",Abhishek Bhateja,613,863-3132
+505,House,"8 MCDONALD AVENUE|Cornwall, Ontario K6J2Y9",3 + 0,1,,"$299,900",Kristoffer Ladouceur,613,898-9525
+506,House,"604A CHAPMAN MILLS DRIVE|Ottawa, Ontario K2J0V4",0 + 2,3,2,"$499,900",Niraj Singhal,613,513-5658
+507,Apartment,"3684 FALLOWFIELD ROAD UNIT#104|Ottawa, Ontario K2J4H3",1 + 0,1,,"$349,900",Georgia Carrol,613,808-8235
+508,House,"142 LARKIN DRIVE|Ottawa, Ontario K2E5A4",3 + 1,4,2,"$899,900",Niraj Singhal,613,513-5658
+509,House,"1965 SCHROEDER CRESCENT|Orleans, Ontario K4A4P7",4 + 1,4,2,"$899,900",Marcia Nash,613,913-6577
+510,Row / Townhouse,"7865 JEANNE D'ARC BOULEVARD|Ottawa, Ontario K1C2J1",3 + 0,2,2,"$550,000",Geoff Walker,613,422-2055
+511,House,"2556 11E CONCESSION ROAD|Clayton, Ontario K0A1P0",2 + 0,2,,"$695,000",Mark Hartley,613,219-2251
+512,House,"482 BRISTON PRIVATE|Ottawa, Ontario K1G5R4",0 + 2,2,2,"$400,000",Natasha Stanzel,613,222-0807
+513,House,"6723 CEDAR ACRES DRIVE|Greely, Ontario K4P1G4",3 + 1,2,1,"$800,000",Moustafa Elgendy,613,263-7704
+514,Manufactured Home,"50 DENISE LANE|Horton, Ontario K7V3Z4",2 + 0,1,,"$79,900",Peter Vincent,613,432-0319
+515,Duplex,"134-136 Rue Harold|Gatineau (Gatineau), Quebec J8P4S3",2,1,,"$399,900",Michel Lacroix,819,665-1725
+516,Triplex,"27 Rue St-Dominique|Gatineau (Hull), Quebec J9A1A1",2,1,2,"$719,900",Ali Saad,819,639-6697
+517,House,"349 Crois. Edwards|Thurso, Quebec J0X3B0",3,2,1,"$259,000",Julie Turcotte,819,598-8949
+518,House,"116 Rue de l'Écorce|Gatineau (Masson-Angers), Quebec J8M1R6",3,1,2,"$349,800",Frédéric Synnett,819,635-7993
+519,House,"429 Rue Nadon|Gatineau (Buckingham), Quebec J8L3Y2",3,2,2,"$289,000",Frédéric Hubert-Legault,819,712-1848
+520,House,"452 Ch. Pierre-Laporte|L'Ange-Gardien, Quebec J8L0P4",3,2,2,"$899,000",Paul Lamarche,819,664-2115
+521,,"Mtée de la Source|Cantley, Quebec J9V2W3",,,,"$69,000",Stéphane Bisson,819,743-2922
+522,House,"157 Boul. d'Amsterdam|Gatineau (Aylmer), Quebec J9J4A5",3,2,2,"$599,900",Marty Waite,819,665-0033
+523,House,"26 Rue de l'Élan|Gatineau (Aylmer), Quebec J9J2Y1",3,2,1,"$614,900",Kristian Poirier,819,230-9111
+524,House,"412 BRIGATINE AVENUE|Ottawa, Ontario K2S0P7",3 + 0,4,2,"$950,000",Lei Guo,613,986-7089
+525,House,"790 LAKERIDGE DRIVE|Ottawa, Ontario K4A0N3",2 + 0,3,2,"$524,900",Ryan Cooper,613,983-6258
+526,Row / Townhouse,"265 ROMULUS PRIVATE|Ottawa, Ontario K1K3Y2",4 + 0,2,2,"$425,000",Geoff Walker,613,422-2055
+527,House,"260 MONACO PLACE|Ottawa, Ontario K4A0G6",3 + 0,4,2,"$799,900",Shane Lanigan,613,882-1221
+528,House,"216 ASPER TRAIL CIRCLE|Ottawa, Ontario K2M0K7",4 + 0,3,2,"$949,900",Paul Rushforth,613,240-8551
+529,House,"1408 DUFORD DRIVE|Ottawa, Ontario K1E3G6",4 + 0,4,2,"$950,000",Nicholas Fundytus,613,400-2000
+530,House,"110 BRANTHAVEN STREET|Ottawa, Ontario K4A0G5",3 + 0,3,2,"$675,000",Elizabeth Stewart,613,262-2277
+531,House,"2539 DRUMMOND CONCESSION 4B ROAD|Perth, Ontario K7H3C8",3 + 0,2,1,"$789,900",Stephanie Mols,613,812-5510
+532,House,"104 GEORGE EAST STREET|Kemptville, Ontario K0G1J0",3 + 0,4,2,"$735,000",Penny Beavis,613,323-4118
+533,House,"508 HONEYLOCUST AVENUE|Ottawa, Ontario K2S1B9",4 + 0,4,2,"$1,298,000",Ramandeep Kapoor,613,791-3417
+534,House,"8 LONE MEADOW TRAIL|Ottawa, Ontario K2S1C9",4 + 0,3,2,"$1,448,000",Kristine Johnson,613,262-2742
+535,Row / Townhouse,"3 WEAVER CRESCENT|Ottawa, Ontario K2K3E1",1 + 1,2,1,"$599,900",Sheila McLuskey,613,601-7253
+536,Row / Townhouse,"678 DES AUBEPINES DRIVE|Orleans, Ontario K4A3W4",3 + 0,4,2,"$639,900",Mathieu Gignac,613,601-7499
+537,House,"110 LINDA LOOP LANE|Marathon, Ontario K0A2H0",3 + 0,2,1,"$699,900",Joanne Beaton,613,407-4309
+538,House,"531 CANNES CRESCENT|Orleans, Ontario K4A5J6",3 + 1,4,2,"$1,100,000",Ronna Sheldrick,613,868-8374
+539,Row / Townhouse,"577 RYE GRASS WAY|Ottawa, Ontario K2J6Z9",4,3,2,"$779,900",RAJ CHOPRA,905,456-0444
+540,House,"186 Rue de la Petite-Ourse|Gatineau (Aylmer), Quebec J9J0S1",3,1,2,"$549,900",Martin W. Simard,819,209-6278
+541,House,"118 Rue Le Baron|Gatineau (Gatineau), Quebec J8T6H6",3,1,1,"$274,900",Melissa Harvey,819,962-6493
+542,House,"1429 HYNDMAN ROAD|Spencerville, Ontario K0E1X0",3 + 0,1,,"$349,000",Heather O'Neill,613,867-4663
+543,House,"59 MAPLE STAND WAY|Ottawa, Ontario K2G6R4",4 + 0,4,2,"$1,475,000",Suzie Ng,613,301-6295
+544,Row / Townhouse,"29 PARTRIDGE DRIVE|Kanata, Ontario K2M2P6",2 + 1,3,1,"$799,000",Bradford Smith,613,889-1066
+545,House,"17 Rue de la Terrasse-Eardley|Gatineau (Aylmer), Quebec J9H6B5",3,1,2,"$299,900",François D'Aoust,819,213-4749
+546,House,"73 MIKA STREET|Ottawa, Ontario K2S1K6",3 + 0,3,2,"$650,000",Marco Distefano,855,408-9468
+547,Duplex,"117 Rue Bourque|Gatineau (Hull), Quebec J8Y1X7",5,2,2,"$529,900",Kevin Whissell,819,639-5689
+548,House,"71 Rue Duluth|Gatineau (Gatineau), Quebec J8V2S6",3,2,2,"$424,900",Guillaume Cloutier,819,962-3143
+549,Row / Townhouse,"253 DEERFOX DRIVE|Ottawa, Ontario K2J5H5",3 + 0,4,2,"$620,000",Marco Distefano,855,408-9468
+550,House,"1 BOND STREET|Smiths Falls, Ontario K7A2P7",3 + 0,2,2,"$379,900",Carol Pasieka,613,447-4504
+551,House,"112 BARTONIA CIRCLE|Ottawa, Ontario K4A1E2",3 + 0,4,2,"$779,900",Eduardo Andrade,613,795-5457
+552,Row / Townhouse,"100 AKITA WALK|Nepean, Ontario K2J3T8",3 + 0,3,2,"$679,900",Sangeun Cho,613,301-8949
+553,House,"67 VICEROY MEWS|Ottawa, Ontario K1X0J5",3 + 0,3,2,"$899,000",Zitao Lu,613,617-9807
+554,House,"468 Ch. du Lac-Hotte|Saint-André-Avellin, Quebec J0V1W0",2,1,1,"$249,900",Frédéric Synnett,819,635-7993
+555,House,"139 Rue de la Cascade|Val-des-Monts, Quebec J8N1H9",4,2,2,"$899,900",Yannick Arseneault,819,360-6967
+556,Row / Townhouse,"1055 HOLLINGTON STREET|Ottawa, Ontario K1Z6L2",3 + 0,2,2,"$529,900",Liza Wilson,613,867-5492
+557,Row / Townhouse,"212 MAXWELL BRIDGE ROAD|Ottawa, Ontario K2W0B7",3 + 0,3,2,"$639,000",Joan M. Smith,613,762-1226
+558,House,"9 AMETHYST CRESCENT|Ottawa, Ontario K2S1Z1",4 + 1,3,2,"$1,299,900",Joanne Goneau,613,851-5982
+559,House,"19285-B COUNTY 24 ROAD|Dunvegan, Ontario K0C1J0",3 + 1,3,2,"$1,250,000",Christian Charron,613,868-2063
+560,House,"557 MAZARI CRESCENT|Stittsville, Ontario K2S0A2",4 + 0,4,2,"$875,000",Wendy Bell,613,797-6686
+561,House,"98 LECLAIR W ROAD|Alfred, Ontario K0B1L0",1 + 1,2,1,"$349,900",Christian Charron,613,868-2063
+562,Row / Townhouse,"220 STEENBAKKERS PRIVATE UNIT#21|Ottawa, Ontario K1T3E2",3 + 0,2,2,"$449,000",Lindsay Spires,613,601-5444
+563,House,"2240 CONLEY ROAD|Stittsville, Ontario K2S1B8",4 + 0,3,2,"$1,295,000",John Spagnoli,613,282-6917
+564,,"551 HILSON AVENUE|Ottawa, Ontario K1Z6C9",,0,,"$995,000",Martin Elder,613,296-8065
+565,Row / Townhouse,"514 FLAGSTAFF DR|Ottawa, Ontario K2J3V5",3,3,2,"$799,990",DAMAN SINGH,905,712-2220
+566,Duplex,"654-656 Rue Notre-Dame|Gatineau (Gatineau), Quebec J8P1N2",2,1,2,"$249,900",Salim Marion,819,665-4169
+567,Triplex,"159 Boul. Maloney O.|Gatineau (Gatineau), Quebec J8P3V6",2,1,2,"$499,800",Jimmy Arseneault,819,664-7755
+568,House,"164 Rue St-Jean|Thurso, Quebec J0X3B0",3,2,1,"$259,000",Robin Duguay,819,665-2190
+569,,"*0 STRANDHERD ROAD|Ottawa, Ontario K2J0K6",,0,,"$8,250,000",Michael Pyman,613,683-2202
+570,House,"172 FLAT SEDGE CRESCENT|Ottawa, Ontario K1T0G9",4 + 0,3,2,"$775,000",Steven Saab,613,863-5886
+571,Row / Townhouse,"612 EVERLASTING CRESCENT|Orleans, Ontario K4A0K1",3 + 0,3,2,"$629,900",Michael Bilcox,613,863-0425
+572,House,"432 BUTLER FARM ROAD|Kemptville, Ontario K0G1J0",3 + 0,3,1,"$889,900",James Wright,613,692-0606
+573,Apartment,"225 ALVIN ROAD UNIT#216|Ottawa, Ontario K1K4H6",1 + 0,1,7,"$324,900",Suzie Lamothe,613,834-9255
+574,Row / Townhouse,"11 AYTON LANE|Ottawa, Ontario K2K2H4",3 + 0,3,2,"$698,999",Xiaoli (Lily) Hu,613,220-0046
+575,Apartment,"308 SECOND STREET E UNIT#101|Cornwall, Ontario K6H1Z1",2 + 0,2,11,"$379,900",Todd Thompson,613,551-7908
+576,House,"155 SPRINGWATER DRIVE|Ottawa, Ontario K2M1Z9",3 + 0,3,2,"$899,000",Geoff Walker,613,422-2055
+577,House,"2220 LOUISIANA AVENUE|Ottawa, Ontario K1H6T6",4 + 0,3,2,"$899,000",Judy Faulkner,613,231-4663
+578,Apartment,"2000 JASMINE CRESCENT UNIT#412|Gloucester, Ontario K1J8K4",2 + 0,1,1,"$259,900",Karyne Ibrahim,855,999-9740
+579,Apartment,"324 LAURIER AVENUE W UNIT#2005|Ottawa, Ontario K1P0A4",1 + 0,1,1,"$399,900",Rony Rizk,613,513-7495
+580,Row / Townhouse,"6780 BREANNA CARDILL STREET|Greely, Ontario K4P0C3",3 + 0,4,2,"$775,000",Vanessa Trisic,613,797-3806
+581,Row / Townhouse,"348 1/2 DALY AVENUE|Ottawa, Ontario K1N6G9",3 + 0,2,2,"$850,000",Robert Webber,613,728-2664
+582,House,"57 DRAGON PARK DRIVE|Ottawa, Ontario K2J0H1",4 + 0,5,2,"$999,900",Russell Boardman,613,791-6261
+583,House,"4225 KELLY FARM DRIVE|Ottawa, Ontario K1T0A5",3 + 0,1,2,"$625,000",Betty Ann Hinch,613,229-6000
+584,House,"108 DESJARDINS STREET|Limoges, Ontario K0A2M0",3 + 0,3,2,"$699,900",J.F. Perras,613,277-0623
+585,House,"2144 RICHMOND ROAD|Smiths Falls, Ontario K7A4S7",2 + 1,2,2,"$450,000",Marco Distefano,855,408-9468
+586,House,"543 SUNLIT CIRCLE|Ottawa, Ontario K4A0V4",3 + 0,3,2,"$600,000",Marco Distefano,855,408-9468
+587,House,"2155 MONSON CRESCENT|Gloucester, Ontario K1J6A7",3 + 1,2,,"$869,900",Karyne Ibrahim,855,999-9740
+588,House,"98 WATERBRIDGE DRIVE|Nepean, Ontario K2G6T3",3 + 0,3,2,"$699,900",Lisa Hiemstra,855,999-9740
+589,House,"180 Rue de Sérignan|Gatineau (Gatineau), Quebec J8V3V1",4,3,2,"$749,000",Danielle Cloutier,819,712-0230
+590,House,"20393 LUC STREET|Green Valley, Ontario K0C1L0",3 + 0,1,1,"$399,900",Derek Bissonnette,613,861-9107
+591,,"2401 BROOKDALE AVENUE|Cornwall, Ontario K6J5Y2",,0,,"$3,190,000",James R. Cameron,613,551-3444
+592,House,"120 Rue Chartrand|Gatineau (Aylmer), Quebec J9H6Y1",4,2,2,"$699,999",Bernard P. Haché,613,795-3933
+593,Duplex,"18 Rue St-Pétersbourg|Gatineau (Aylmer), Quebec J9J4G9",3,1,2,"$699,900",Jacob St-Jacques,819,951-1337
+594,House,"347 Boul. des Trembles|Gatineau (Hull), Quebec J9A3T2",4,1,2,"$565,000",Caroline Bertrand,819,968-1881
+595,House,"1399 Boul. Hurtubise|Gatineau (Gatineau), Quebec J8P7C2",2,2,1.5,"$799,900",Daniel Caya,819,712-2732
+596,House,"782 Rue Notre-Dame|Gatineau (Gatineau), Quebec J8P1N5",6,3,2,"$549,900",Nicolas Poirier,819,930-2966
+597,House,"21 Boul. Lorrain|Gatineau (Gatineau), Quebec J8P2C9",4,2,1,"$524,900",Nick Chénier,819,598-7580
+598,House,"405 Rue Landry|Gatineau (Gatineau), Quebec J8P2N4",4,2,1,"$438,888",Hélène Théorêt,819,771-2266
+599,House,"10 Rue Turpin|Saint-André-Avellin, Quebec J0V1W0",2,2,1,"$335,000",Bruno St-Denis,819,983-8607
