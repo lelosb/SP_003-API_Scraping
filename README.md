@@ -20,7 +20,7 @@
 
   Vale lembrar que o formato da requisição muda de um site para outro, de forma que isso não pode ser encarado como um procedimento geral. Cada site/api necessitará de uma abordagem apropriada. Após encontrar a requisiçao, é possível baixa-la em formato cURL (cmd), que depois deve ser convertido. Utilizamos um site de terceiros para converter a linguagem da requisição para uma requisição em python a fim de podermos utilizar todo o poder das bibliotecas do python. O site utilizado para conversão foi o https://formatter.xyz/curl-to-python-converter
   
-  Após a conversão, o request foi tratado e os dados raspados utilizando laços em python. Eem seguida os dados foram salvos em um dataframe do pandas e em um arquivo .csv.
+  Após a conversão, o request foi tratado e os dados raspados utilizando laços em python. E em seguida os dados foram salvos em um dataframe do pandas e em um arquivo .csv.
   
 # Referências
 
